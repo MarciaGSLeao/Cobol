@@ -1,0 +1,668 @@
+                                                    MM        MM  FFFFFFFFFFFF       11
+                                                   MMM      MMM  FFFFFFFFFFFF      111
+                                                  MMMM    MMMM  FF               1111
+                                                 MM MM  MM MM  FF                 11
+                                                MM  MMMM  MM  FF                 11
+                                               MM   MM   MM  FFFFFFFF           11
+                                              MM        MM  FFFFFFFF           11
+                                             MM        MM  FF                 11
+                                            MM        MM  FF                 11
+                                           MM        MM  FF                 11
+                                          MM        MM  FF             1111111111
+                                         MM        MM  FF             1111111111
+
+
+
+                   SSSSSSSSSS         444      6666666666    9999999999                                AAAAAAAAAA
+                  SSSSSSSSSSSS       4444     666666666666  999999999999                              AAAAAAAAAAAA
+                  SS        SS      44 44     66        66  99        99                              AA        AA
+                  SS               44  44     66            99        99                              AA        AA
+                  SSS             44   44     66            99        99                              AA        AA
+                   SSSSSSSSS     44444444444  66666666666   999999999999                              AAAAAAAAAAAA
+                    SSSSSSSSS   444444444444  666666666666  999999999999                              AAAAAAAAAAAA
+                           SSS         44     66        66            99                              AA        AA
+                            SS         44     66        66            99                              AA        AA
+                  SS        SS         44     66        66  99        99                              AA        AA
+                  SSSSSSSSSSSS         44     666666666666  999999999999                              AA        AA
+                   SSSSSSSSSS          44      6666666666    9999999999                               AA        AA
+
+
+****A  START  STC  469  MF1                             ROOM       12.44.58 AM 07 MAY 21  PRINTER1  SYS TK4-  STC  469  START  A****
+****A  START  STC  469  MF1                             ROOM       12.44.58 AM 07 MAY 21  PRINTER1  SYS TK4-  STC  469  START  A****
+****A  START  STC  469  MF1                             ROOM       12.44.58 AM 07 MAY 21  PRINTER1  SYS TK4-  STC  469  START  A****
+****A  START  STC  469  MF1                             ROOM       12.44.58 AM 07 MAY 21  PRINTER1  SYS TK4-  STC  469  START  A****
+                                                 C P U  A C T I V I T Y
+                                                                                                               PAGE    1
+            OS/VS2                   SYSTEM ID TK4-             DATE  5/06/21            INTERVAL 03.39.355
+            RELEASE 03.8             MF/1 VERSION 01            TIME 22.48.44
+
+
+
+
+CPU                WAIT TIME           WAIT TIME           CPU SERIAL
+NUMBER             HH.MM.SS.TTT        PERCENTAGE          NUMBER
+
+
+ 0                 00.03.35.579        98.27               000611
+
+
+ 1                 00.03.36.852        98.85               100611
+
+
+AVERAGE                                98.56                                              P A G I N G  A C T I V I T Y
+                                                                                                               PAGE    1
+            OS/VS2                   SYSTEM ID TK4-             DATE  5/06/21            INTERVAL 03.39.355
+            RELEASE 03.8             MF/1 VERSION 01            TIME 22.48.44
+
+
+                                               MAIN STORAGE PAGING RATES
+                                                      PER SECOND
+--------------------------------------------------------------------------------------------------------------------
+
+                                                      PAGE IN                                   PAGE OUT
+                    PAGE RECLAIMS      ------------------------------------       ----------------------------------
+                  ----------------     ----------------    ----------------       --------------    ----------------
+                           PERCENT                                  PERCENT                                  PERCENT
+                           OF                                       OF                                       OF
+                           TOTAL                  NON      TOTAL    TOTAL                  NON      TOTAL    TOTAL
+CATEGORY          RATE     SUM         SWAP       SWAP     RATE     SUM           SWAP     SWAP     RATE     SUM
+
+
+PAGEABLE SYSTEM
+AREAS
+     VIO            0.00        0                   0.00     0.00        0                   0.00     0.00        0
+
+     NON VIO        1.50       44                   0.08     0.08        2                   0.00     0.00        0
+                  ------   ------                 ------   ------   ------                 ------   ------   ------
+     SUM            1.50       44                   0.08     0.08        2                   0.00     0.00        0
+
+ADDRESS SPACES
+     VIO            0.02        1                   0.00     0.00        0                   0.02     0.02        0
+
+     NON VIO        1.92       56        3.73       1.22     4.95       98          6.70     0.00     6.70      100
+                  ------   ------      ------     ------   ------   ------        ------   ------   ------   ------
+     SUM            1.94       56        3.73       1.22     4.95       98          6.70     0.02     6.72      100
+
+TOTAL SYSTEM
+     VIO            0.02        1                   0.00     0.00        0                   0.02     0.02        0
+
+     NON VIO        3.42       99        3.73       1.30     5.03      100          6.70     0.00     6.70      100
+                  ------   ------      ------     ------   ------   ------        ------   ------   ------   ------
+     SUM            3.44      100        3.73       1.30     5.03      100          6.70     0.02     6.72      100
+
+
+      AUXILIARY STORAGE USER POOL                     PAGEABLE MAIN STORAGE COUNTS               SWAP COUNTS
+-------------------------------------------         --------------------------------          --------------------
+
+                       PAGE                                          PAGE
+                       SLOTS        PERCENT                          FRAMES  PERCENT
+
+
+
+AVAILABLE SLOTS           19,591        98          UNUSED FRAMES    3198        81           SWAPS            143
+
+VIO SLOTS                      0         0          DATA PAGES        749        19           AVERAGE
+                                                                     ----    ------           PAGES PER    10
+NON-VIO SLOTS                329         2          TOTAL FRAMES     3947       100           SWAP OUT
+
+UNAVAILABLE SLOTS              0         0                                                    AVERAGE
+                       ---------    ------                                                    PAGES PER     6
+TOTAL SLOTS               19,920       100                                                    SWAP IN                                           W O R K L O A D   A C T I V I T Y
+                                                                                                               PAGE    1
+            OS/VS2                   SYSTEM ID TK4-             DATE  5/06/21            INTERVAL 03.39.355
+            RELEASE 03.8             MF/1 VERSION 01            TIME 22.48.44            IEAIPS00
+
+
+PERFORM        PERFORM        SERVICE           AVERAGE                    AVERAGE        ENDED          AVERAGE TIME OF
+GROUP          GROUP          IN                TRANS.       WORKLOAD      TRANS-         TRANS-         ENDED TRANS.
+NUMBER         PERIOD         INTERVAL          SRV RATE     LEVEL         ACTIONS        ACTIONS        HHH.MM.SS.TTT
+
+
+001            1                  4,681               4         99.61          5.03             5        000.26.45.546
+               2                  ZEROS
+
+001            ALL                4,681               4         99.61          5.03             5        000.26.45.546
+
+
+002            1                  2,089           2,391          0.96          0.00            40        000.00.00.022
+               2 - 3              ZEROS
+
+002            ALL                2,089           2,391          0.96          0.00            40        000.00.00.022
+
+
+003            ZEROS
+
+
+004            1                  1,591           4,088          0.91          0.00             3        000.00.00.168
+
+004            ALL                1,591           4,088          0.91          0.00             3        000.00.00.168
+
+
+
+
+SYSTEM TOTAL                      8,361               7         56.18          5.03            48        000.02.47.272                                            C H A N N E L   A C T I V I T Y
+                                                                                                               PAGE    1
+            OS/VS2                   SYSTEM ID TK4-             DATE  5/06/21            INTERVAL 03.39.355
+            RELEASE 03.8             MF/1 VERSION 01            TIME 22.48.44            CYCLE 0.250 SECONDS
+
+
+
+     CHANNEL            CHANNEL        PERCENT        PERCENT
+     NUMBER             ACTIVITY       CHANNEL        CHAN BUSY
+CPU  AND TYPE           COUNT          BUSY           & CPU WAIT
+
+
+ 0   0  BYTE MPX            487
+     1  BLOCK MPX         2,515         0.00           0.00
+     2  BLOCK MPX         1,639         0.00           0.00
+     3  BLOCK MPX           253         0.00           0.00
+
+     4  BLOCK MPX             0         0.00           0.00
+     6  BLOCK MPX           510         0.00           0.00
+
+TOTAL                     5,404
+
+
+ 1   0  BYTE MPX            487
+     1  BLOCK MPX         2,515         0.00           0.00
+     2  BLOCK MPX         1,639         0.00           0.00
+     3  BLOCK MPX           253         0.00           0.00
+
+     4  BLOCK MPX             0         0.00           0.00
+     6  BLOCK MPX           510         0.00           0.00
+
+TOTAL                     5,404                               M A G N E T I C   T A P E   D E V I C E   A C T I V I T Y
+                                                                                                               PAGE    1
+            OS/VS2                   SYSTEM ID TK4-             DATE  5/06/21            INTERVAL 03.39.355
+            RELEASE 03.8             MF/1 VERSION 01            TIME 22.48.44            CYCLE 0.250 SECONDS
+
+
+                             DEVICE
+DEVICE        VOLUME         ACTIVITY       PERCENT        AVERAGE
+ADDRESS       SERIAL         COUNT          BUSY           QLENGTH
+
+
+
+480                                0         0.00           0.00
+
+TOTAL                              0                            C O M M U N I C A T I O N   E Q U I P M E N T   A C T I V I T Y
+                                                                                                               PAGE    1
+            OS/VS2                   SYSTEM ID TK4-             DATE  5/06/21            INTERVAL 03.39.355
+            RELEASE 03.8             MF/1 VERSION 01            TIME 22.48.44            CYCLE 0.250 SECONDS
+
+
+                             DEVICE
+DEVICE                       ACTIVITY       PERCENT        AVERAGE
+ADDRESS                      COUNT          BUSY           QLENGTH
+
+
+
+660                               62         0.00           0.00
+661                               62         0.00           0.00
+662                               62         0.00           0.00
+663                               62         0.00           0.00
+
+664                               49         0.00           0.00
+665                               47         0.00           0.00
+666                               48         0.00           0.00
+667                               50         0.00           0.00
+
+668                               10         0.00           0.00
+669                               10         0.00           0.00
+66A                               10         0.00           0.00
+66B                               10         0.00           0.00
+
+670                                1        98.52           0.00
+671                                1        98.52           0.00
+672                                1        98.52           0.00
+673                                1        98.52           0.00
+
+680                                2        98.52           0.00
+681                                2        98.52           0.00
+682                                2        98.52           0.00
+683                                2        98.52           0.00
+
+688                                2        98.52           0.00
+689                                2        98.52           0.00
+68A                                2        98.52           0.00
+68B                                2        98.52           0.00
+
+68C                                2        98.52           0.00
+68D                                2        98.52           0.00
+68E                                2        98.52           0.00
+68F                                2        98.52           0.00
+
+TOTAL                            510                               D I R E C T   A C C E S S   D E V I C E   A C T I V I T Y
+                                                                                                               PAGE    1
+            OS/VS2                   SYSTEM ID TK4-             DATE  5/06/21            INTERVAL 03.39.355
+            RELEASE 03.8             MF/1 VERSION 01            TIME 22.48.44            CYCLE 0.250 SECONDS
+
+
+                             DEVICE
+DEVICE        VOLUME         ACTIVITY       PERCENT        AVERAGE
+ADDRESS       SERIAL         COUNT          BUSY           QLENGTH
+
+
+
+131           SORT01               5         0.00           0.00
+132           SORT02               5         0.00           0.00
+133           SORT03               5         0.00           0.00
+134           SORT04               5         0.00           0.00
+
+135           SORT05               5         0.00           0.00
+136           SORT06               5         0.00           0.00
+140           WORK00             137         0.00           0.00
+148           MVSRES           1,000         0.00           0.00
+
+149           SMP001               3         0.00           0.00
+14A           SMP002               3         0.00           0.00
+14B           SMP003               3         0.00           0.00
+14C           SMP004               3         0.00           0.00
+
+152           HASP00             541         0.00           0.00
+160           PAGE00             145         0.00           0.00
+161           PAGE01             227         0.00           0.00
+170           WORK01             111         0.00           0.00
+
+180           WORK02              77         0.00           0.00
+190           WORK03              68         0.00           0.00
+191           MVSCAT             167         0.00           0.00
+240           PUB000           1,131         0.00           0.00
+
+241           PUB010              51         0.00           0.00
+248           MVSDLB             397         0.00           0.00
+270           PUB001              27         0.00           0.00
+271           PUB011               3         0.00           0.00
+
+280           PUB002               3         0.00           0.00
+281           PUB012               3         0.00           0.00
+290           PUB003              11         0.00           0.00
+291           PUB013              13         0.00           0.00
+
+TOTAL                          4,154                                    G R A P H I C S   D E V I C E   A C T I V I T Y
+                                                                                                               PAGE    1
+            OS/VS2                   SYSTEM ID TK4-             DATE  5/06/21            INTERVAL 03.39.355
+            RELEASE 03.8             MF/1 VERSION 01            TIME 22.48.44            CYCLE 0.250 SECONDS
+
+
+                             DEVICE
+DEVICE                       ACTIVITY       PERCENT        AVERAGE
+ADDRESS                      COUNT          BUSY           QLENGTH
+
+
+
+0C0                               91         0.11           0.00
+0C1                                1         0.00           0.00
+0C2                                1         0.00           0.00
+0C3                                1         0.00           0.00
+
+0C4                                1         0.00           0.00
+0C5                                1         0.00           0.00
+0C6                                1         0.00           0.00
+0C7                                1         0.00           0.00
+
+3C0                                0         0.00           0.00
+3C1                                0         0.00           0.00
+3C2                                0         0.00           0.00
+3C3                                0         0.00           0.00
+
+3C4                                0         0.00           0.00
+3C5                                0         0.00           0.00
+3C6                                0         0.00           0.00
+3C7                                0         0.00           0.00
+
+TOTAL                             98                                 U N I T   R E C O R D   D E V I C E   A C T I V I T Y
+                                                                                                               PAGE    1
+            OS/VS2                   SYSTEM ID TK4-             DATE  5/06/21            INTERVAL 03.39.355
+            RELEASE 03.8             MF/1 VERSION 01            TIME 22.48.44            CYCLE 0.250 SECONDS
+
+
+                             DEVICE
+DEVICE                       ACTIVITY       PERCENT        AVERAGE
+ADDRESS                      COUNT          BUSY           QLENGTH
+
+
+
+002                                0         0.00           0.00
+009                              190         0.00           0.00
+00C                                0         0.00           0.00
+00D                                0         0.00           0.00
+
+00E                               27         0.00           0.00
+00F                              172         0.11           0.00
+10C                                0         0.00           0.00
+10D                                0         0.00           0.00
+
+30E                              253         0.00           0.00
+
+TOTAL                            642                                                    MM        MM  FFFFFFFFFFFF       11
+                                                   MMM      MMM  FFFFFFFFFFFF      111
+                                                  MMMM    MMMM  FF               1111
+                                                 MM MM  MM MM  FF                 11
+                                                MM  MMMM  MM  FF                 11
+                                               MM   MM   MM  FFFFFFFF           11
+                                              MM        MM  FFFFFFFF           11
+                                             MM        MM  FF                 11
+                                            MM        MM  FF                 11
+                                           MM        MM  FF                 11
+                                          MM        MM  FF             1111111111
+                                         MM        MM  FF             1111111111
+
+
+
+                   SSSSSSSSSS         444      6666666666    9999999999                                AAAAAAAAAA
+                  SSSSSSSSSSSS       4444     666666666666  999999999999                              AAAAAAAAAAAA
+                  SS        SS      44 44     66        66  99        99                              AA        AA
+                  SS               44  44     66            99        99                              AA        AA
+                  SSS             44   44     66            99        99                              AA        AA
+                   SSSSSSSSS     44444444444  66666666666   999999999999                              AAAAAAAAAAAA
+                    SSSSSSSSS   444444444444  666666666666  999999999999                              AAAAAAAAAAAA
+                           SSS         44     66        66            99                              AA        AA
+                            SS         44     66        66            99                              AA        AA
+                  SS        SS         44     66        66  99        99                              AA        AA
+                  SSSSSSSSSSSS         44     666666666666  999999999999                              AA        AA
+                   SSSSSSSSSS          44      6666666666    9999999999                               AA        AA
+
+
+****A   END   STC  469  MF1                             ROOM       12.44.58 AM 07 MAY 21  PRINTER1  SYS TK4-  STC  469   END   A****
+****A   END   STC  469  MF1                             ROOM       12.44.58 AM 07 MAY 21  PRINTER1  SYS TK4-  STC  469   END   A****
+****A   END   STC  469  MF1                             ROOM       12.44.58 AM 07 MAY 21  PRINTER1  SYS TK4-  STC  469   END   A****
+****A   END   STC  469  MF1                             ROOM       12.44.58 AM 07 MAY 21  PRINTER1  SYS TK4-  STC  469   END   A****
+                                                    MM        MM  FFFFFFFFFFFF       11
+                                                   MMM      MMM  FFFFFFFFFFFF      111
+                                                  MMMM    MMMM  FF               1111
+                                                 MM MM  MM MM  FF                 11
+                                                MM  MMMM  MM  FF                 11
+                                               MM   MM   MM  FFFFFFFF           11
+                                              MM        MM  FFFFFFFF           11
+                                             MM        MM  FF                 11
+                                            MM        MM  FF                 11
+                                           MM        MM  FF                 11
+                                          MM        MM  FF             1111111111
+                                         MM        MM  FF             1111111111
+
+
+
+                   SSSSSSSSSS         444      8888888888   777777777777                               AAAAAAAAAA
+                  SSSSSSSSSSSS       4444     888888888888  77777777777                               AAAAAAAAAAAA
+                  SS        SS      44 44     88        88  77      77                                AA        AA
+                  SS               44  44     88        88         77                                 AA        AA
+                  SSS             44   44      88      88         77                                  AA        AA
+                   SSSSSSSSS     44444444444    88888888         77                                   AAAAAAAAAAAA
+                    SSSSSSSSS   444444444444    88888888         77                                   AAAAAAAAAAAA
+                           SSS         44      88      88        77                                   AA        AA
+                            SS         44     88        88       77                                   AA        AA
+                  SS        SS         44     88        88       77                                   AA        AA
+                  SSSSSSSSSSSS         44     888888888888       77                                   AA        AA
+                   SSSSSSSSSS          44      8888888888        77                                   AA        AA
+
+
+****A  START  STC  487  MF1                             ROOM       12.44.58 AM 07 MAY 21  PRINTER1  SYS TK4-  STC  487  START  A****
+****A  START  STC  487  MF1                             ROOM       12.44.58 AM 07 MAY 21  PRINTER1  SYS TK4-  STC  487  START  A****
+****A  START  STC  487  MF1                             ROOM       12.44.58 AM 07 MAY 21  PRINTER1  SYS TK4-  STC  487  START  A****
+****A  START  STC  487  MF1                             ROOM       12.44.58 AM 07 MAY 21  PRINTER1  SYS TK4-  STC  487  START  A****
+IRB103I MF/1 OPTIONS IN EFFECT
+IRB103I   CPU
+IRB103I   PAGING
+IRB103I   CHAN
+IRB103I   WKLD(PERIOD)
+IRB103I   DEVICE(UNITR,GRAPH,DASD,COMM,TAPE,CHRDR)
+IRB103I   RECORD
+IRB103I   CYCLE(250)
+IRB103I   INTERVAL(15M)
+IRB103I   NOSTOP
+IRB103I   SYSOUT(A)
+IRB103I   REPORT(REALTIME)
+IRB103I   MEMBER(00)                                                    MM        MM  FFFFFFFFFFFF       11
+                                                   MMM      MMM  FFFFFFFFFFFF      111
+                                                  MMMM    MMMM  FF               1111
+                                                 MM MM  MM MM  FF                 11
+                                                MM  MMMM  MM  FF                 11
+                                               MM   MM   MM  FFFFFFFF           11
+                                              MM        MM  FFFFFFFF           11
+                                             MM        MM  FF                 11
+                                            MM        MM  FF                 11
+                                           MM        MM  FF                 11
+                                          MM        MM  FF             1111111111
+                                         MM        MM  FF             1111111111
+
+
+
+                   SSSSSSSSSS         444      8888888888   777777777777                               AAAAAAAAAA
+                  SSSSSSSSSSSS       4444     888888888888  77777777777                               AAAAAAAAAAAA
+                  SS        SS      44 44     88        88  77      77                                AA        AA
+                  SS               44  44     88        88         77                                 AA        AA
+                  SSS             44   44      88      88         77                                  AA        AA
+                   SSSSSSSSS     44444444444    88888888         77                                   AAAAAAAAAAAA
+                    SSSSSSSSS   444444444444    88888888         77                                   AAAAAAAAAAAA
+                           SSS         44      88      88        77                                   AA        AA
+                            SS         44     88        88       77                                   AA        AA
+                  SS        SS         44     88        88       77                                   AA        AA
+                  SSSSSSSSSSSS         44     888888888888       77                                   AA        AA
+                   SSSSSSSSSS          44      8888888888        77                                   AA        AA
+
+
+****A   END   STC  487  MF1                             ROOM       12.44.58 AM 07 MAY 21  PRINTER1  SYS TK4-  STC  487   END   A****
+****A   END   STC  487  MF1                             ROOM       12.44.58 AM 07 MAY 21  PRINTER1  SYS TK4-  STC  487   END   A****
+****A   END   STC  487  MF1                             ROOM       12.44.58 AM 07 MAY 21  PRINTER1  SYS TK4-  STC  487   END   A****
+****A   END   STC  487  MF1                             ROOM       12.44.58 AM 07 MAY 21  PRINTER1  SYS TK4-  STC  487   END   A****
+                  SSSSSSSSSS   HH        HH  UU        UU  TTTTTTTTTTTT  DDDDDDDDD     OOOOOOOOOOOO  WW        WW  NN        NN
+                SSSSSSSSSSSS  HH        HH  UU        UU  TTTTTTTTTTTT  DDDDDDDDDD    OOOOOOOOOOOO  WW        WW  NNN       NN
+               SS        SS  HH        HH  UU        UU       TT       DD       DD   OO        OO  WW        WW  NNNN      NN
+              SS            HH        HH  UU        UU       TT       DD        DD  OO        OO  WW        WW  NN NN     NN
+             SSS           HH        HH  UU        UU       TT       DD        DD  OO        OO  WW        WW  NN  NN    NN
+             SSSSSSSSS    HHHHHHHHHHHH  UU        UU       TT       DD        DD  OO        OO  WW        WW  NN   NN   NN
+             SSSSSSSSS   HHHHHHHHHHHH  UU        UU       TT       DD        DD  OO        OO  WW   WW   WW  NN    NN  NN
+                   SSS  HH        HH  UU        UU       TT       DD        DD  OO        OO  WW  WWWW  WW  NN     NN NN
+                   SS  HH        HH  UU        UU       TT       DD        DD  OO        OO  WW WW  WW WW  NN      NNNN
+        SS        SS  HH        HH  UU        UU       TT       DD       DD   OO        OO  WWWW    WWWW  NN       NNN
+       SSSSSSSSSSSS  HH        HH  UUUUUUUUUUUU       TT       DDDDDDDDDD    OOOOOOOOOOOO  WWW      WWW  NN        NN
+       SSSSSSSSSS   HH        HH   UUUUUUUUUU        TT       DDDDDDDDD     OOOOOOOOOOOO  WW        WW  NN         N
+
+
+
+                    JJJJJJJJJJ   2222222222    2222222222        11                                    AAAAAAAAAA
+                    JJJJJJJJJJ  222222222222  222222222222      111                                   AAAAAAAAAAAA
+                        JJ      22        22  22        22     1111                                   AA        AA
+                        JJ                22            22       11                                   AA        AA
+                        JJ                22            22       11                                   AA        AA
+                        JJ               22            22        11                                   AAAAAAAAAAAA
+                        JJ             22            22          11                                   AAAAAAAAAAAA
+                        JJ           22            22            11                                   AA        AA
+                  JJ    JJ         22            22              11                                   AA        AA
+                  JJ    JJ       22            22                11                                   AA        AA
+                  JJJJJJJJ      222222222222  222222222222   1111111111                               AA        AA
+                   JJJJJJ       222222222222  222222222222   1111111111                               AA        AA
+
+
+****A  START  JOB  221  SHUTDOWN  Shutdown TK4-         ROOM       12.48.24 AM 07 MAY 21  PRINTER1  SYS TK4-  JOB  221  START  A****
+****A  START  JOB  221  SHUTDOWN  Shutdown TK4-         ROOM       12.48.24 AM 07 MAY 21  PRINTER1  SYS TK4-  JOB  221  START  A****
+****A  START  JOB  221  SHUTDOWN  Shutdown TK4-         ROOM       12.48.24 AM 07 MAY 21  PRINTER1  SYS TK4-  JOB  221  START  A****
+****A  START  JOB  221  SHUTDOWN  Shutdown TK4-         ROOM       12.48.24 AM 07 MAY 21  PRINTER1  SYS TK4-  JOB  221  START  A****
+                                                J E S 2   J O B   L O G
+
+
+00.48.24 JOB  221  $HASP373 SHUTDOWN STARTED - INIT  1 - CLASS A - SYS TK4-
+00.48.24 JOB  221  IEF403I SHUTDOWN - STARTED - TIME=00.48.24
+00.48.24 JOB  221  IEFACTRT - Stepname  Procstep  Program   Retcode
+00.48.24 JOB  221  SHUTDOWN   SHUTDOWN  SHUTDOWN  BSPHRCMD  RC= 0000
+00.48.24 JOB  221  IEF404I SHUTDOWN - ENDED - TIME=00.48.24
+00.48.24 JOB  221  $HASP395 SHUTDOWN ENDED
+
+
+------ JES2 JOB STATISTICS ------
+
+
+ 07 MAY 21 JOB EXECUTION DATE
+
+
+        14 CARDS READ
+
+
+        40 SYSOUT PRINT RECORDS
+
+
+         0 SYSOUT PUNCH RECORDS
+
+
+      0.00 MINUTES EXECUTION TIME
+    1     //SHUTDOWN JOB (TK4-),                                                  JOB  221
+          //             'Shutdown TK4-',
+          //             CLASS=A,
+          //             MSGCLASS=A,
+          //             MSGLEVEL=(0,0),
+          //            USER=HERC01,PASSWORD=            GENERATED BY GDL
+IEF142I SHUTDOWN SHUTDOWN SHUTDOWN - STEP WAS EXECUTED - COND CODE 0000
+IEF373I STEP /SHUTDOWN/ START 21127.0048
+IEF374I STEP /SHUTDOWN/ STOP  21127.0048 CPU    0MIN 00.02SEC SRB    0MIN 00.00SEC VIRT    16K SYS   196K
+************************************************************************************************************************************
+*     1. Jobstep of job: SHUTDOWN    Stepname: SHUTDOWN    Program name: BSPHRCMD   Executed on 07.05.21 from 00.48.24 to 00.48.24 *
+*         elapsed time  00:00:00,02                      CPU-Identifier:  TK4-           Page-in:      0                           *
+*             CPU time  00:00:00,02               Virtual Storage used:     16K         Page-out:      0                           *
+*           corr. CPU:  00:00:00,02   CPU time has been corrected by  1 / 1,0  multiplier                                          *
+*                                                                                                                                  *
+*     I/O Operation                                                                                                                *
+*     Number of records read via DD * or DD DATA:      0                                                                           *
+*     DMY.......0 DMY.......0                                                                                                      *
+*                                                                                                                                  *
+*                                          Charge for step (w/o SYSOUT):          0,03                                             *
+************************************************************************************************************************************
+IEF375I  JOB /SHUTDOWN/ START 21127.0048
+IEF376I  JOB /SHUTDOWN/ STOP  21127.0048 CPU    0MIN 00.02SEC SRB    0MIN 00.00SEC
+BSPHRCMD Version 1.0.2                                                                                                      PAGE   1
+
+                                                                    |l      _,,,---,,_
+                                                              ZZZzz /,:.-':'    -.  ;-;;,
+                                                                   |,4-  ) )-,_. ,( (  :'-'
+                                                                  '---''(_/--'  :-')_)
+
+                                                            Placed into the Hercules Domain
+                                                            by Volker Bandke, BSP GmbHBSPHC91I - Processing command: script scripts/shutdownBSPHC99I - End of processing, MAXRC=0000                  SSSSSSSSSS   HH        HH  UU        UU  TTTTTTTTTTTT  DDDDDDDDD     OOOOOOOOOOOO  WW        WW  NN        NN
+                SSSSSSSSSSSS  HH        HH  UU        UU  TTTTTTTTTTTT  DDDDDDDDDD    OOOOOOOOOOOO  WW        WW  NNN       NN
+               SS        SS  HH        HH  UU        UU       TT       DD       DD   OO        OO  WW        WW  NNNN      NN
+              SS            HH        HH  UU        UU       TT       DD        DD  OO        OO  WW        WW  NN NN     NN
+             SSS           HH        HH  UU        UU       TT       DD        DD  OO        OO  WW        WW  NN  NN    NN
+             SSSSSSSSS    HHHHHHHHHHHH  UU        UU       TT       DD        DD  OO        OO  WW        WW  NN   NN   NN
+             SSSSSSSSS   HHHHHHHHHHHH  UU        UU       TT       DD        DD  OO        OO  WW   WW   WW  NN    NN  NN
+                   SSS  HH        HH  UU        UU       TT       DD        DD  OO        OO  WW  WWWW  WW  NN     NN NN
+                   SS  HH        HH  UU        UU       TT       DD        DD  OO        OO  WW WW  WW WW  NN      NNNN
+        SS        SS  HH        HH  UU        UU       TT       DD       DD   OO        OO  WWWW    WWWW  NN       NNN
+       SSSSSSSSSSSS  HH        HH  UUUUUUUUUUUU       TT       DDDDDDDDDD    OOOOOOOOOOOO  WWW      WWW  NN        NN
+       SSSSSSSSSS   HH        HH   UUUUUUUUUU        TT       DDDDDDDDD     OOOOOOOOOOOO  WW        WW  NN         N
+
+
+
+                    JJJJJJJJJJ   2222222222    2222222222        11                                    AAAAAAAAAA
+                    JJJJJJJJJJ  222222222222  222222222222      111                                   AAAAAAAAAAAA
+                        JJ      22        22  22        22     1111                                   AA        AA
+                        JJ                22            22       11                                   AA        AA
+                        JJ                22            22       11                                   AA        AA
+                        JJ               22            22        11                                   AAAAAAAAAAAA
+                        JJ             22            22          11                                   AAAAAAAAAAAA
+                        JJ           22            22            11                                   AA        AA
+                  JJ    JJ         22            22              11                                   AA        AA
+                  JJ    JJ       22            22                11                                   AA        AA
+                  JJJJJJJJ      222222222222  222222222222   1111111111                               AA        AA
+                   JJJJJJ       222222222222  222222222222   1111111111                               AA        AA
+
+
+****A   END   JOB  221  SHUTDOWN  Shutdown TK4-         ROOM       12.48.24 AM 07 MAY 21  PRINTER1  SYS TK4-  JOB  221   END   A****
+****A   END   JOB  221  SHUTDOWN  Shutdown TK4-         ROOM       12.48.24 AM 07 MAY 21  PRINTER1  SYS TK4-  JOB  221   END   A****
+****A   END   JOB  221  SHUTDOWN  Shutdown TK4-         ROOM       12.48.24 AM 07 MAY 21  PRINTER1  SYS TK4-  JOB  221   END   A****
+****A   END   JOB  221  SHUTDOWN  Shutdown TK4-         ROOM       12.48.24 AM 07 MAY 21  PRINTER1  SYS TK4-  JOB  221   END   A****
+                                                    TTTTTTTTTTTT   SSSSSSSSSS   OOOOOOOOOOOO
+                                                   TTTTTTTTTTTT  SSSSSSSSSSSS  OOOOOOOOOOOO
+                                                       TT       SS        SS  OO        OO
+                                                      TT       SS            OO        OO
+                                                     TT       SSS           OO        OO
+                                                    TT        SSSSSSSSS    OO        OO
+                                                   TT         SSSSSSSSS   OO        OO
+                                                  TT                SSS  OO        OO
+                                                 TT                 SS  OO        OO
+                                                TT       SS        SS  OO        OO
+                                               TT       SSSSSSSSSSSS  OOOOOOOOOOOO
+                                              TT        SSSSSSSSSS   OOOOOOOOOOOO
+
+
+
+                   SSSSSSSSSS         444      8888888888    8888888888                                AAAAAAAAAA
+                  SSSSSSSSSSSS       4444     888888888888  888888888888                              AAAAAAAAAAAA
+                  SS        SS      44 44     88        88  88        88                              AA        AA
+                  SS               44  44     88        88  88        88                              AA        AA
+                  SSS             44   44      88      88    88      88                               AA        AA
+                   SSSSSSSSS     44444444444    88888888      88888888                                AAAAAAAAAAAA
+                    SSSSSSSSS   444444444444    88888888      88888888                                AAAAAAAAAAAA
+                           SSS         44      88      88    88      88                               AA        AA
+                            SS         44     88        88  88        88                              AA        AA
+                  SS        SS         44     88        88  88        88                              AA        AA
+                  SSSSSSSSSSSS         44     888888888888  888888888888                              AA        AA
+                   SSSSSSSSSS          44      8888888888    8888888888                               AA        AA
+
+
+****A  START  STC  488  TSO                             ROOM       12.49.13 AM 07 MAY 21  PRINTER1  SYS TK4-  STC  488  START  A****
+****A  START  STC  488  TSO                             ROOM       12.49.13 AM 07 MAY 21  PRINTER1  SYS TK4-  STC  488  START  A****
+****A  START  STC  488  TSO                             ROOM       12.49.13 AM 07 MAY 21  PRINTER1  SYS TK4-  STC  488  START  A****
+****A  START  STC  488  TSO                             ROOM       12.49.13 AM 07 MAY 21  PRINTER1  SYS TK4-  STC  488  START  A****
+CONSOLE VALUES ENTERED:
+    *NONE ENTERED*
+
+
+
+
+
+PARMLIB VALUES ENTERED:
+    USERMAX=40,                      /* MAXIMUM USERS                    */
+    RECONLIM=60,                     /* MAXIMUM DISCONNECT MINUTES       */
+    BUFRSIZE=252,                    /* VTIOC BUFFER SIZE                */
+    HIBFREXT=48000,                  /* MAX BUFFERS BEFORE SWAP OUT      */
+    LOBFREXT=24000,                  /* MIMIMUM BUFFERS BEFORE SWAP IN   */
+    MODE=NOBREAK,                    /* KEYBOARD LOCK OPTION             */
+    MODESW=YES,                      /* MODESWITCH FROM TERMINAL OPTION  */
+    CHNLEN=1,                        /* NO. OF RU'S PER CHAIN            */
+    SCRSIZE=1920                     /* DEFAULT SCREEN SIZE              */
+
+PARMLIB VALUES ACCEPTED:
+    USERMAX=40,RECONLIM=60,BUFRSIZE=252,HIBFREXT=48000,LOBFREXT=24000,
+    SCRSIZE=1920,CHNLEN=1,MODE=NOBREAK,MODESW=YES
+
+
+
+
+
+CURRENT TCAS PARAMETERS:
+    USERMAX=40,ACBPW=,RECONLIM=60,BUFRSIZE=252,HIBFREXT=48000,
+    LOBFREXT=24000,SCRSIZE=1920,CHNLEN=1,MODE=NOBREAK,MODESW=YES,
+    CONFTXT=YES                                                    TTTTTTTTTTTT   SSSSSSSSSS   OOOOOOOOOOOO
+                                                   TTTTTTTTTTTT  SSSSSSSSSSSS  OOOOOOOOOOOO
+                                                       TT       SS        SS  OO        OO
+                                                      TT       SS            OO        OO
+                                                     TT       SSS           OO        OO
+                                                    TT        SSSSSSSSS    OO        OO
+                                                   TT         SSSSSSSSS   OO        OO
+                                                  TT                SSS  OO        OO
+                                                 TT                 SS  OO        OO
+                                                TT       SS        SS  OO        OO
+                                               TT       SSSSSSSSSSSS  OOOOOOOOOOOO
+                                              TT        SSSSSSSSSS   OOOOOOOOOOOO
+
+
+
+                   SSSSSSSSSS         444      8888888888    8888888888                                AAAAAAAAAA
+                  SSSSSSSSSSSS       4444     888888888888  888888888888                              AAAAAAAAAAAA
+                  SS        SS      44 44     88        88  88        88                              AA        AA
+                  SS               44  44     88        88  88        88                              AA        AA
+                  SSS             44   44      88      88    88      88                               AA        AA
+                   SSSSSSSSS     44444444444    88888888      88888888                                AAAAAAAAAAAA
+                    SSSSSSSSS   444444444444    88888888      88888888                                AAAAAAAAAAAA
+                           SSS         44      88      88    88      88                               AA        AA
+                            SS         44     88        88  88        88                              AA        AA
+                  SS        SS         44     88        88  88        88                              AA        AA
+                  SSSSSSSSSSSS         44     888888888888  888888888888                              AA        AA
+                   SSSSSSSSSS          44      8888888888    8888888888                               AA        AA
+
+
+****A   END   STC  488  TSO                             ROOM       12.49.13 AM 07 MAY 21  PRINTER1  SYS TK4-  STC  488   END   A****
+****A   END   STC  488  TSO                             ROOM       12.49.13 AM 07 MAY 21  PRINTER1  SYS TK4-  STC  488   END   A****
+****A   END   STC  488  TSO                             ROOM       12.49.13 AM 07 MAY 21  PRINTER1  SYS TK4-  STC  488   END   A****
+****A   END   STC  488  TSO                             ROOM       12.49.13 AM 07 MAY 21  PRINTER1  SYS TK4-  STC  488   END   A****
+

@@ -14,10 +14,10 @@
 
        DATA DIVISION.
        WORKING-STORAGE SECTION.
-
-       77 WRK-VALOR1       PIC 9(3)     VALUES ZEROS.
-       77 WRK-VALOR2       PIC 9(5)V99  VALUES ZEROS.
-       77 WRK-RESULTADO    PIC 9(3)     VALUES ZEROS.
+      * Abaixo encontra-se o espoço para declaração de variáveis.
+       77 WRK-VALOR1       PIC  9(3)V99    VALUES ZEROS.
+       77 WRK-VALOR2       PIC  9(3)V99    VALUES ZEROS.
+       77 WRK-RESULTADO    PIC S9(3)V99    VALUES ZEROS.
 
        PROCEDURE DIVISION.
        0100-RECEBE     SECTION.
@@ -25,7 +25,7 @@
                ACCEPT WRK-VALOR1.
            DISPLAY "DIGITE O VALOR 2: "
                ACCEPT WRK-VALOR2.
-           COMPUTE WRK-RESULTADO = WRK-VALOR1 + WRK-VALOR2.
+           COMPUTE WRK-RESULTADO = WRK-VALOR1 - WRK-VALOR2.
 
 
        0200-EXIBE      SECTION.
