@@ -1,9 +1,9 @@
        IDENTIFICATION DIVISION.
-       PROGRAM-ID. PROGCOB07.
+       PROGRAM-ID. PROGCOB08.
       ******************************************************************
       * AUTHOR: MARCIA GAMELEIRA
-      * OBJETIVO: ESTRUTURA DE DECISÃO IF/ELSE.
-      * DATA: 26/10/2023
+      * OBJETIVO: COMANDO EVALUATE.
+      * DATA: 28/10/2023
       ******************************************************************
        ENVIRONMENT DIVISION.
        CONFIGURATION SECTION.
@@ -27,14 +27,14 @@
              MOVE WRK-MEDIA TO WRK-MEDIA-FORM.
              DISPLAY "MEDIA: " WRK-MEDIA-FORM.
 
-           IF WRK-MEDIA >= 6
-            DISPLAY "APROVADO"
-           ELSE
-            IF WRK-MEDIA >= 4
-             DISPLAY "RECUPERACAO"
-           ELSE
-            DISPLAY "REPROVADO"
-           END-IF.
+             EVALUATE TRUE
+              WHEN WRK-MEDIA >= 6 AND <= 10
+               DISPLAY "APROVADO"
+              WHEN WRK-MEDIA >= 4 AND < 6
+               DISPLAY "RECUPERACAO"
+              WHEN OTHER
+               DISPLAY "REPROVADO"
+             END-EVALUATE.
 
            STOP RUN.
-       END PROGRAM PROGCOB07.
+       END PROGRAM PROGCOB08.
