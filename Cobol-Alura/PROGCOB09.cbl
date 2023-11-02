@@ -1,5 +1,5 @@
        IDENTIFICATION DIVISION.
-       PROGRAM-ID. PROGCOB08.
+       PROGRAM-ID. PROGCOB09.
       ******************************************************************
       * AUTHOR: MARCIA GAMELEIRA
       * OBJETIVO: COMANDO EVALUATE.
@@ -59,4 +59,4 @@
            END-EVALUATE.
 
            STOP RUN.
-       END PROGRAM PROGCOB08.
+       END PROGRAM PROGCOB09.
