@@ -3,7 +3,7 @@
       *-----------------------------------------------------------------
       *== AUTOR: MARCIA GAMELEIRA
       *== OBJETIVO: TRABALHANDO COM VETORES.
-      *== DATA: 05/11/2023
+      *== DATA: 10/11/2023
       *== OBSERVACOES:
       *-----------------------------------------------------------------
 
@@ -15,7 +15,7 @@
       *=================================================================
        DATA DIVISION.
        WORKING-STORAGE SECTION.
-       77 WRK-NOME         PIC X(30)       OCCURS 3 TIMES.
+       77 WRK-NOME         PIC X(30)       OCCURS 5 TIMES.
 
       *=================================================================
        PROCEDURE DIVISION.
