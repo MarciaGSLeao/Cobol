@@ -2,7 +2,7 @@
        PROGRAM-ID. PROG11.
       *-----------------------------------------------------------------
       *== AUTOR: MARCIA GAMELEIRA
-      *== OBJETIVO: TRABALHANDO COM VETORES.
+      *== OBJETIVO: CLÁUSULA REDEFINES.
       *== DATA: 10/11/2023
       *== OBSERVACOES:
       *-----------------------------------------------------------------
@@ -15,12 +15,9 @@
       *=================================================================
        DATA DIVISION.
        WORKING-STORAGE SECTION.
-       77 WRK-NOME         PIC X(30)       OCCURS 5 TIMES.
 
       *=================================================================
        PROCEDURE DIVISION.
-
-
 
 
 
