@@ -15,11 +15,13 @@
        DATA DIVISION.
        WORKING-STORAGE SECTION.
        01 WRK-NPROD        PIC X(30)       VALUES SPACE.
-       01 WRK-PRICE        PIC 9(4)        VALUE ZEROS.
+       01 WRK-PRICE        PIC 9(4)V99     VALUE ZEROS.
        01 WRK-UF           PIC XX          VALUES SPACES.
-       01 WRK-PFRETE       PIC 9(4)        VALUES ZEROS.
+
+       01 WRK-PFRETE       PIC 9(4)V99     VALUES ZEROS.
        01 WRK-PFRETEFORM   PIC ZZZ,99      VALUES ZEROS.
-       01 WRK-VTOTAL       PIC 9(4)        VALUES ZEROS.
+
+       01 WRK-VTOTAL       PIC 9(4)V99     VALUES ZEROS.
        01 WRK-VTOTALFORM   PIC Z.ZZZ,99    VALUES ZEROS.
 
       ******************************************************************
