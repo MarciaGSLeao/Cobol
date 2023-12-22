@@ -1,0 +1,2060 @@
+                                                    TTTTTTTTTTTT   SSSSSSSSSS   OOOOOOOOOOOO
+                                                   TTTTTTTTTTTT  SSSSSSSSSSSS  OOOOOOOOOOOO
+                                                       TT       SS        SS  OO        OO
+                                                      TT       SS            OO        OO
+                                                     TT       SSS           OO        OO
+                                                    TT        SSSSSSSSS    OO        OO
+                                                   TT         SSSSSSSSS   OO        OO
+                                                  TT                SSS  OO        OO
+                                                 TT                 SS  OO        OO
+                                                TT       SS        SS  OO        OO
+                                               TT       SSSSSSSSSSSS  OOOOOOOOOOOO
+                                              TT        SSSSSSSSSS   OOOOOOOOOOOO
+
+
+
+                   SSSSSSSSSS   555555555555   2222222222    3333333333                                AAAAAAAAAA
+                  SSSSSSSSSSSS  555555555555  222222222222  333333333333                              AAAAAAAAAAAA
+                  SS        SS  55            22        22  33        33                              AA        AA
+                  SS            55                      22            33                              AA        AA
+                  SSS           55                      22            33                              AA        AA
+                   SSSSSSSSS    555555555              22          3333                               AAAAAAAAAAAA
+                    SSSSSSSSS   5555555555           22            3333                               AAAAAAAAAAAA
+                           SSS           55        22                 33                              AA        AA
+                            SS            55     22                   33                              AA        AA
+                  SS        SS            55   22           33        33                              AA        AA
+                  SSSSSSSSSSSS  555555555555  222222222222  333333333333                              AA        AA
+                   SSSSSSSSSS   55555555555   222222222222   3333333333                               AA        AA
+
+
+****A  START  STC  523  TSO                             ROOM        7.57.17 AM 20 DEC 23  PRINTER1  SYS TK4-  STC  523  START  A****
+****A  START  STC  523  TSO                             ROOM        7.57.17 AM 20 DEC 23  PRINTER1  SYS TK4-  STC  523  START  A****
+****A  START  STC  523  TSO                             ROOM        7.57.17 AM 20 DEC 23  PRINTER1  SYS TK4-  STC  523  START  A****
+****A  START  STC  523  TSO                             ROOM        7.57.17 AM 20 DEC 23  PRINTER1  SYS TK4-  STC  523  START  A****
+CONSOLE VALUES ENTERED:
+    *NONE ENTERED*
+
+
+
+
+
+PARMLIB VALUES ENTERED:
+    USERMAX=40,                      /* MAXIMUM USERS                    */
+    RECONLIM=60,                     /* MAXIMUM DISCONNECT MINUTES       */
+    BUFRSIZE=252,                    /* VTIOC BUFFER SIZE                */
+    HIBFREXT=48000,                  /* MAX BUFFERS BEFORE SWAP OUT      */
+    LOBFREXT=24000,                  /* MIMIMUM BUFFERS BEFORE SWAP IN   */
+    MODE=NOBREAK,                    /* KEYBOARD LOCK OPTION             */
+    MODESW=YES,                      /* MODESWITCH FROM TERMINAL OPTION  */
+    CHNLEN=1,                        /* NO. OF RU'S PER CHAIN            */
+    SCRSIZE=1920                     /* DEFAULT SCREEN SIZE              */
+
+PARMLIB VALUES ACCEPTED:
+    USERMAX=40,RECONLIM=60,BUFRSIZE=252,HIBFREXT=48000,LOBFREXT=24000,
+    SCRSIZE=1920,CHNLEN=1,MODE=NOBREAK,MODESW=YES
+
+
+
+
+
+CURRENT TCAS PARAMETERS:
+    USERMAX=40,ACBPW=,RECONLIM=60,BUFRSIZE=252,HIBFREXT=48000,
+    LOBFREXT=24000,SCRSIZE=1920,CHNLEN=1,MODE=NOBREAK,MODESW=YES,
+    CONFTXT=YES                                                    TTTTTTTTTTTT   SSSSSSSSSS   OOOOOOOOOOOO
+                                                   TTTTTTTTTTTT  SSSSSSSSSSSS  OOOOOOOOOOOO
+                                                       TT       SS        SS  OO        OO
+                                                      TT       SS            OO        OO
+                                                     TT       SSS           OO        OO
+                                                    TT        SSSSSSSSS    OO        OO
+                                                   TT         SSSSSSSSS   OO        OO
+                                                  TT                SSS  OO        OO
+                                                 TT                 SS  OO        OO
+                                                TT       SS        SS  OO        OO
+                                               TT       SSSSSSSSSSSS  OOOOOOOOOOOO
+                                              TT        SSSSSSSSSS   OOOOOOOOOOOO
+
+
+
+                   SSSSSSSSSS   555555555555   2222222222    3333333333                                AAAAAAAAAA
+                  SSSSSSSSSSSS  555555555555  222222222222  333333333333                              AAAAAAAAAAAA
+                  SS        SS  55            22        22  33        33                              AA        AA
+                  SS            55                      22            33                              AA        AA
+                  SSS           55                      22            33                              AA        AA
+                   SSSSSSSSS    555555555              22          3333                               AAAAAAAAAAAA
+                    SSSSSSSSS   5555555555           22            3333                               AAAAAAAAAAAA
+                           SSS           55        22                 33                              AA        AA
+                            SS            55     22                   33                              AA        AA
+                  SS        SS            55   22           33        33                              AA        AA
+                  SSSSSSSSSSSS  555555555555  222222222222  333333333333                              AA        AA
+                   SSSSSSSSSS   55555555555   222222222222   3333333333                               AA        AA
+
+
+****A   END   STC  523  TSO                             ROOM        7.57.17 AM 20 DEC 23  PRINTER1  SYS TK4-  STC  523   END   A****
+****A   END   STC  523  TSO                             ROOM        7.57.17 AM 20 DEC 23  PRINTER1  SYS TK4-  STC  523   END   A****
+****A   END   STC  523  TSO                             ROOM        7.57.17 AM 20 DEC 23  PRINTER1  SYS TK4-  STC  523   END   A****
+****A   END   STC  523  TSO                             ROOM        7.57.17 AM 20 DEC 23  PRINTER1  SYS TK4-  STC  523   END   A****
+                                                    MM        MM  FFFFFFFFFFFF       11
+                                                   MMM      MMM  FFFFFFFFFFFF      111
+                                                  MMMM    MMMM  FF               1111
+                                                 MM MM  MM MM  FF                 11
+                                                MM  MMMM  MM  FF                 11
+                                               MM   MM   MM  FFFFFFFF           11
+                                              MM        MM  FFFFFFFF           11
+                                             MM        MM  FF                 11
+                                            MM        MM  FF                 11
+                                           MM        MM  FF                 11
+                                          MM        MM  FF             1111111111
+                                         MM        MM  FF             1111111111
+
+
+
+                   SSSSSSSSSS   555555555555   2222222222    2222222222                                AAAAAAAAAA
+                  SSSSSSSSSSSS  555555555555  222222222222  222222222222                              AAAAAAAAAAAA
+                  SS        SS  55            22        22  22        22                              AA        AA
+                  SS            55                      22            22                              AA        AA
+                  SSS           55                      22            22                              AA        AA
+                   SSSSSSSSS    555555555              22            22                               AAAAAAAAAAAA
+                    SSSSSSSSS   5555555555           22            22                                 AAAAAAAAAAAA
+                           SSS           55        22            22                                   AA        AA
+                            SS            55     22            22                                     AA        AA
+                  SS        SS            55   22            22                                       AA        AA
+                  SSSSSSSSSSSS  555555555555  222222222222  222222222222                              AA        AA
+                   SSSSSSSSSS   55555555555   222222222222  222222222222                              AA        AA
+
+
+****A  START  STC  522  MF1                             ROOM        7.57.17 AM 20 DEC 23  PRINTER1  SYS TK4-  STC  522  START  A****
+****A  START  STC  522  MF1                             ROOM        7.57.17 AM 20 DEC 23  PRINTER1  SYS TK4-  STC  522  START  A****
+****A  START  STC  522  MF1                             ROOM        7.57.17 AM 20 DEC 23  PRINTER1  SYS TK4-  STC  522  START  A****
+****A  START  STC  522  MF1                             ROOM        7.57.17 AM 20 DEC 23  PRINTER1  SYS TK4-  STC  522  START  A****
+
+
+$HASP185 PRINTER1 TERMINATED                                                    MM        MM  FFFFFFFFFFFF       11
+                                                   MMM      MMM  FFFFFFFFFFFF      111
+                                                  MMMM    MMMM  FF               1111
+                                                 MM MM  MM MM  FF                 11
+                                                MM  MMMM  MM  FF                 11
+                                               MM   MM   MM  FFFFFFFF           11
+                                              MM        MM  FFFFFFFF           11
+                                             MM        MM  FF                 11
+                                            MM        MM  FF                 11
+                                           MM        MM  FF                 11
+                                          MM        MM  FF             1111111111
+                                         MM        MM  FF             1111111111
+
+
+
+                   SSSSSSSSSS   555555555555   2222222222    2222222222                                AAAAAAAAAA
+                  SSSSSSSSSSSS  555555555555  222222222222  222222222222                              AAAAAAAAAAAA
+                  SS        SS  55            22        22  22        22                              AA        AA
+                  SS            55                      22            22                              AA        AA
+                  SSS           55                      22            22                              AA        AA
+                   SSSSSSSSS    555555555              22            22                               AAAAAAAAAAAA
+                    SSSSSSSSS   5555555555           22            22                                 AAAAAAAAAAAA
+                           SSS           55        22            22                                   AA        AA
+                            SS            55     22            22                                     AA        AA
+                  SS        SS            55   22            22                                       AA        AA
+                  SSSSSSSSSSSS  555555555555  222222222222  222222222222                              AA        AA
+                   SSSSSSSSSS   55555555555   222222222222  222222222222                              AA        AA
+
+
+****A   END   STC  522  MF1                             ROOM        7.57.17 AM 20 DEC 23  PRINTER1  SYS TK4-  STC  522   END   A****
+****A   END   STC  522  MF1                             ROOM        7.57.17 AM 20 DEC 23  PRINTER1  SYS TK4-  STC  522   END   A****
+****A   END   STC  522  MF1                             ROOM        7.57.17 AM 20 DEC 23  PRINTER1  SYS TK4-  STC  522   END   A****
+****A   END   STC  522  MF1                             ROOM        7.57.17 AM 20 DEC 23  PRINTER1  SYS TK4-  STC  522   END   A****
+                                                    MM        MM  FFFFFFFFFFFF       11
+                                                   MMM      MMM  FFFFFFFFFFFF      111
+                                                  MMMM    MMMM  FF               1111
+                                                 MM MM  MM MM  FF                 11
+                                                MM  MMMM  MM  FF                 11
+                                               MM   MM   MM  FFFFFFFF           11
+                                              MM        MM  FFFFFFFF           11
+                                             MM        MM  FF                 11
+                                            MM        MM  FF                 11
+                                           MM        MM  FF                 11
+                                          MM        MM  FF             1111111111
+                                         MM        MM  FF             1111111111
+
+
+
+                   SSSSSSSSSS   555555555555   3333333333    9999999999                                AAAAAAAAAA
+                  SSSSSSSSSSSS  555555555555  333333333333  999999999999                              AAAAAAAAAAAA
+                  SS        SS  55            33        33  99        99                              AA        AA
+                  SS            55                      33  99        99                              AA        AA
+                  SSS           55                      33  99        99                              AA        AA
+                   SSSSSSSSS    555555555            3333   999999999999                              AAAAAAAAAAAA
+                    SSSSSSSSS   5555555555           3333   999999999999                              AAAAAAAAAAAA
+                           SSS           55             33            99                              AA        AA
+                            SS            55            33            99                              AA        AA
+                  SS        SS            55  33        33  99        99                              AA        AA
+                  SSSSSSSSSSSS  555555555555  333333333333  999999999999                              AA        AA
+                   SSSSSSSSSS   55555555555    3333333333    9999999999                               AA        AA
+
+
+****A  START  STC  539  MF1                             ROOM        7.57.17 AM 20 DEC 23  PRINTER1  SYS TK4-  STC  539  START  A****
+****A  START  STC  539  MF1                             ROOM        7.57.17 AM 20 DEC 23  PRINTER1  SYS TK4-  STC  539  START  A****
+****A  START  STC  539  MF1                             ROOM        7.57.17 AM 20 DEC 23  PRINTER1  SYS TK4-  STC  539  START  A****
+****A  START  STC  539  MF1                             ROOM        7.57.17 AM 20 DEC 23  PRINTER1  SYS TK4-  STC  539  START  A****
+IRB103I MF/1 OPTIONS IN EFFECT
+IRB103I   CPU
+IRB103I   PAGING
+IRB103I   CHAN
+IRB103I   WKLD(PERIOD)
+IRB103I   DEVICE(UNITR,GRAPH,DASD,COMM,TAPE,CHRDR)
+IRB103I   RECORD
+IRB103I   CYCLE(250)
+IRB103I   INTERVAL(15M)
+IRB103I   NOSTOP
+IRB103I   SYSOUT(A)
+IRB103I   REPORT(REALTIME)
+IRB103I   MEMBER(00)                                                    MM        MM  FFFFFFFFFFFF       11
+                                                   MMM      MMM  FFFFFFFFFFFF      111
+                                                  MMMM    MMMM  FF               1111
+                                                 MM MM  MM MM  FF                 11
+                                                MM  MMMM  MM  FF                 11
+                                               MM   MM   MM  FFFFFFFF           11
+                                              MM        MM  FFFFFFFF           11
+                                             MM        MM  FF                 11
+                                            MM        MM  FF                 11
+                                           MM        MM  FF                 11
+                                          MM        MM  FF             1111111111
+                                         MM        MM  FF             1111111111
+
+
+
+                   SSSSSSSSSS   555555555555   3333333333    9999999999                                AAAAAAAAAA
+                  SSSSSSSSSSSS  555555555555  333333333333  999999999999                              AAAAAAAAAAAA
+                  SS        SS  55            33        33  99        99                              AA        AA
+                  SS            55                      33  99        99                              AA        AA
+                  SSS           55                      33  99        99                              AA        AA
+                   SSSSSSSSS    555555555            3333   999999999999                              AAAAAAAAAAAA
+                    SSSSSSSSS   5555555555           3333   999999999999                              AAAAAAAAAAAA
+                           SSS           55             33            99                              AA        AA
+                            SS            55            33            99                              AA        AA
+                  SS        SS            55  33        33  99        99                              AA        AA
+                  SSSSSSSSSSSS  555555555555  333333333333  999999999999                              AA        AA
+                   SSSSSSSSSS   55555555555    3333333333    9999999999                               AA        AA
+
+
+****A   END   STC  539  MF1                             ROOM        7.57.17 AM 20 DEC 23  PRINTER1  SYS TK4-  STC  539   END   A****
+****A   END   STC  539  MF1                             ROOM        7.57.17 AM 20 DEC 23  PRINTER1  SYS TK4-  STC  539   END   A****
+****A   END   STC  539  MF1                             ROOM        7.57.17 AM 20 DEC 23  PRINTER1  SYS TK4-  STC  539   END   A****
+****A   END   STC  539  MF1                             ROOM        7.57.17 AM 20 DEC 23  PRINTER1  SYS TK4-  STC  539   END   A****
+                                                    MM        MM  FFFFFFFFFFFF       11
+                                                   MMM      MMM  FFFFFFFFFFFF      111
+                                                  MMMM    MMMM  FF               1111
+                                                 MM MM  MM MM  FF                 11
+                                                MM  MMMM  MM  FF                 11
+                                               MM   MM   MM  FFFFFFFF           11
+                                              MM        MM  FFFFFFFF           11
+                                             MM        MM  FF                 11
+                                            MM        MM  FF                 11
+                                           MM        MM  FF                 11
+                                          MM        MM  FF             1111111111
+                                         MM        MM  FF             1111111111
+
+
+
+                   SSSSSSSSSS   555555555555   3333333333    9999999999                                AAAAAAAAAA
+                  SSSSSSSSSSSS  555555555555  333333333333  999999999999                              AAAAAAAAAAAA
+                  SS        SS  55            33        33  99        99                              AA        AA
+                  SS            55                      33  99        99                              AA        AA
+                  SSS           55                      33  99        99                              AA        AA
+                   SSSSSSSSS    555555555            3333   999999999999                              AAAAAAAAAAAA
+                    SSSSSSSSS   5555555555           3333   999999999999                              AAAAAAAAAAAA
+                           SSS           55             33            99                              AA        AA
+                            SS            55            33            99                              AA        AA
+                  SS        SS            55  33        33  99        99                              AA        AA
+                  SSSSSSSSSSSS  555555555555  333333333333  999999999999                              AA        AA
+                   SSSSSSSSSS   55555555555    3333333333    9999999999                               AA        AA
+
+
+****A  START  STC  539  MF1                             ROOM        8.15.41 AM 20 DEC 23  PRINTER1  SYS TK4-  STC  539  START  A****
+****A  START  STC  539  MF1                             ROOM        8.15.41 AM 20 DEC 23  PRINTER1  SYS TK4-  STC  539  START  A****
+****A  START  STC  539  MF1                             ROOM        8.15.41 AM 20 DEC 23  PRINTER1  SYS TK4-  STC  539  START  A****
+****A  START  STC  539  MF1                             ROOM        8.15.41 AM 20 DEC 23  PRINTER1  SYS TK4-  STC  539  START  A****
+                                                 C P U  A C T I V I T Y
+                                                                                                               PAGE    1
+            OS/VS2                   SYSTEM ID TK4-             DATE 12/20/23            INTERVAL 18.23.750
+            RELEASE 03.8             MF/1 VERSION 01            TIME 07.57.17
+
+
+
+
+CPU                WAIT TIME           WAIT TIME           CPU SERIAL
+NUMBER             HH.MM.SS.TTT        PERCENTAGE          NUMBER
+
+
+ 0                 00.18.18.677        99.54               000611
+
+
+ 1                 00.18.20.335        99.69               100611
+
+
+AVERAGE                                99.61                                              P A G I N G  A C T I V I T Y
+                                                                                                               PAGE    1
+            OS/VS2                   SYSTEM ID TK4-             DATE 12/20/23            INTERVAL 18.23.750
+            RELEASE 03.8             MF/1 VERSION 01            TIME 07.57.17
+
+
+                                               MAIN STORAGE PAGING RATES
+                                                      PER SECOND
+--------------------------------------------------------------------------------------------------------------------
+
+                                                      PAGE IN                                   PAGE OUT
+                    PAGE RECLAIMS      ------------------------------------       ----------------------------------
+                  ----------------     ----------------    ----------------       --------------    ----------------
+                           PERCENT                                  PERCENT                                  PERCENT
+                           OF                                       OF                                       OF
+                           TOTAL                  NON      TOTAL    TOTAL                  NON      TOTAL    TOTAL
+CATEGORY          RATE     SUM         SWAP       SWAP     RATE     SUM           SWAP     SWAP     RATE     SUM
+
+
+PAGEABLE SYSTEM
+AREAS
+     VIO            0.00        0                   0.00     0.00        0                   0.00     0.00        0
+
+     NON VIO        0.01        4                   0.20     0.20       12                   0.10     0.10        4
+                  ------   ------                 ------   ------   ------                 ------   ------   ------
+     SUM            0.01        4                   0.20     0.20       12                   0.10     0.10        4
+
+ADDRESS SPACES
+     VIO            0.00        0                   0.00     0.00        0                   0.00     0.00        0
+
+     NON VIO        0.17       96        1.31       0.13     1.43       88          1.91     0.28     2.19       96
+                  ------   ------      ------     ------   ------   ------        ------   ------   ------   ------
+     SUM            0.17       96        1.31       0.13     1.43       88          1.91     0.28     2.19       96
+
+TOTAL SYSTEM
+     VIO            0.00        0                   0.00     0.00        0                   0.00     0.00        0
+
+     NON VIO        0.18      100        1.31       0.32     1.63      100          1.91     0.39     2.29      100
+                  ------   ------      ------     ------   ------   ------        ------   ------   ------   ------
+     SUM            0.18      100        1.31       0.32     1.63      100          1.91     0.39     2.29      100
+
+
+      AUXILIARY STORAGE USER POOL                     PAGEABLE MAIN STORAGE COUNTS               SWAP COUNTS
+-------------------------------------------         --------------------------------          --------------------
+
+                       PAGE                                          PAGE
+                       SLOTS        PERCENT                          FRAMES  PERCENT
+
+
+
+AVAILABLE SLOTS           19,148        96          UNUSED FRAMES    3185        81           SWAPS            287
+
+VIO SLOTS                      0         0          DATA PAGES        762        19           AVERAGE
+                                                                     ----    ------           PAGES PER     7
+NON-VIO SLOTS                772         4          TOTAL FRAMES     3947       100           SWAP OUT
+
+UNAVAILABLE SLOTS              0         0                                                    AVERAGE
+                       ---------    ------                                                    PAGES PER     5
+TOTAL SLOTS               19,920       100                                                    SWAP IN                                           W O R K L O A D   A C T I V I T Y
+                                                                                                               PAGE    1
+            OS/VS2                   SYSTEM ID TK4-             DATE 12/20/23            INTERVAL 18.23.750
+            RELEASE 03.8             MF/1 VERSION 01            TIME 07.57.17            IEAIPS00
+
+
+PERFORM        PERFORM        SERVICE           AVERAGE                    AVERAGE        ENDED          AVERAGE TIME OF
+GROUP          GROUP          IN                TRANS.       WORKLOAD      TRANS-         TRANS-         ENDED TRANS.
+NUMBER         PERIOD         INTERVAL          SRV RATE     LEVEL         ACTIONS        ACTIONS        HHH.MM.SS.TTT
+
+
+001            1                  7,027               1         99.90          5.01             1        000.00.00.125
+               2                  ZEROS
+
+001            ALL                7,027               1         99.90          5.01             1        000.00.00.125
+
+
+002            1                  1,719           2,535          0.95          0.00            24        000.00.00.028
+               2 - 3              ZEROS
+
+002            ALL                1,719           2,535          0.95          0.00            24        000.00.00.028
+
+
+003 - 004      ZEROS
+
+SYSTEM TOTAL                      8,746               1         80.45          5.02            25        000.00.00.032                                            C H A N N E L   A C T I V I T Y
+                                                                                                               PAGE    1
+            OS/VS2                   SYSTEM ID TK4-             DATE 12/20/23            INTERVAL 18.23.750
+            RELEASE 03.8             MF/1 VERSION 01            TIME 07.57.17            CYCLE 0.250 SECONDS
+
+
+
+     CHANNEL            CHANNEL        PERCENT        PERCENT
+     NUMBER             ACTIVITY       CHANNEL        CHAN BUSY
+CPU  AND TYPE           COUNT          BUSY           & CPU WAIT
+
+
+ 0   0  BYTE MPX            341
+     1  BLOCK MPX         1,850         0.00           0.00
+     2  BLOCK MPX         1,556         0.00           0.00
+     3  BLOCK MPX           181         0.00           0.00
+
+     4  BLOCK MPX             0         0.00           0.00
+     6  BLOCK MPX           588         0.00           0.00
+
+TOTAL                     4,516
+
+
+ 1   0  BYTE MPX            341
+     1  BLOCK MPX         1,850         0.00           0.00
+     2  BLOCK MPX         1,556         0.00           0.00
+     3  BLOCK MPX           181         0.00           0.00
+
+     4  BLOCK MPX             0         0.00           0.00
+     6  BLOCK MPX           588         0.00           0.00
+
+TOTAL                     4,516                               M A G N E T I C   T A P E   D E V I C E   A C T I V I T Y
+                                                                                                               PAGE    1
+            OS/VS2                   SYSTEM ID TK4-             DATE 12/20/23            INTERVAL 18.23.750
+            RELEASE 03.8             MF/1 VERSION 01            TIME 07.57.17            CYCLE 0.250 SECONDS
+
+
+                             DEVICE
+DEVICE        VOLUME         ACTIVITY       PERCENT        AVERAGE
+ADDRESS       SERIAL         COUNT          BUSY           QLENGTH
+
+
+
+480                                0         0.00           0.00
+
+TOTAL                              0                            C O M M U N I C A T I O N   E Q U I P M E N T   A C T I V I T Y
+                                                                                                               PAGE    1
+            OS/VS2                   SYSTEM ID TK4-             DATE 12/20/23            INTERVAL 18.23.750
+            RELEASE 03.8             MF/1 VERSION 01            TIME 07.57.17            CYCLE 0.250 SECONDS
+
+
+                             DEVICE
+DEVICE                       ACTIVITY       PERCENT        AVERAGE
+ADDRESS                      COUNT          BUSY           QLENGTH
+
+
+
+660                               76         0.00           0.00
+661                               76         0.00           0.00
+662                               76         0.00           0.00
+663                               76         0.00           0.00
+
+664                               57         0.00           0.00
+665                               57         0.00           0.00
+666                               57         0.00           0.00
+667                               57         0.00           0.00
+
+668                               13         0.00           0.00
+669                               13         0.00           0.00
+66A                               13         0.00           0.00
+66B                               13         0.00           0.00
+
+670                                1        100.0           0.00
+671                                1        100.0           0.00
+672                                1        100.0           0.00
+673                                1        100.0           0.00
+
+680                                0        100.0           0.00
+681                                0        100.0           0.00
+682                                0        100.0           0.00
+683                                0        100.0           0.00
+
+688                                0        100.0           0.00
+689                                0        100.0           0.00
+68A                                0        100.0           0.00
+68B                                0        100.0           0.00
+
+68C                                0        100.0           0.00
+68D                                0        100.0           0.00
+68E                                0        100.0           0.00
+68F                                0        100.0           0.00
+
+TOTAL                            588                               D I R E C T   A C C E S S   D E V I C E   A C T I V I T Y
+                                                                                                               PAGE    1
+            OS/VS2                   SYSTEM ID TK4-             DATE 12/20/23            INTERVAL 18.23.750
+            RELEASE 03.8             MF/1 VERSION 01            TIME 07.57.17            CYCLE 0.250 SECONDS
+
+
+                             DEVICE
+DEVICE        VOLUME         ACTIVITY       PERCENT        AVERAGE
+ADDRESS       SERIAL         COUNT          BUSY           QLENGTH
+
+
+
+131           SORT01               0         0.00           0.00
+132           SORT02               0         0.00           0.00
+133           SORT03               0         0.00           0.00
+134           SORT04               0         0.00           0.00
+
+135           SORT05               0         0.00           0.00
+136           SORT06               0         0.00           0.00
+140           WORK00               0         0.00           0.00
+148           MVSRES           1,056         0.00           0.00
+
+149           SMP001               0         0.00           0.00
+14A           SMP002               0         0.00           0.00
+14B           SMP003               0         0.00           0.00
+14C           SMP004               0         0.00           0.00
+
+152           HASP00             258         0.00           0.00
+160           PAGE00             147         0.00           0.00
+161           PAGE01             375         0.00           0.00
+170           WORK01               0         0.00           0.00
+
+180           WORK02               0         0.00           0.00
+190           WORK03               0         0.00           0.00
+191           MVSCAT              32         0.00           0.00
+240           PUB000             804         0.00           0.00
+
+241           PUB010              65         0.00           0.00
+248           MVSDLB             634         0.00           0.00
+270           PUB001              35         0.00           0.00
+271           PUB011               0         0.00           0.00
+
+280           PUB002               0         0.00           0.00
+281           PUB012               0         0.00           0.00
+290           PUB003              19         0.00           0.00
+291           PUB013               0         0.00           0.00
+
+TOTAL                          3,425                                    G R A P H I C S   D E V I C E   A C T I V I T Y
+                                                                                                               PAGE    1
+            OS/VS2                   SYSTEM ID TK4-             DATE 12/20/23            INTERVAL 18.23.750
+            RELEASE 03.8             MF/1 VERSION 01            TIME 07.57.17            CYCLE 0.250 SECONDS
+
+
+                             DEVICE
+DEVICE                       ACTIVITY       PERCENT        AVERAGE
+ADDRESS                      COUNT          BUSY           QLENGTH
+
+
+
+0C0                               68         0.00           0.00
+0C1                                1         0.00           0.00
+0C2                                1         0.00           0.00
+0C3                                1         0.00           0.00
+
+0C4                                1         0.00           0.00
+0C5                                1         0.00           0.00
+0C6                                1         0.00           0.00
+0C7                                0         0.00           0.00
+
+3C0                                0         0.00           0.00
+3C1                                0         0.00           0.00
+3C2                                0         0.00           0.00
+3C3                                0         0.00           0.00
+
+3C4                                0         0.00           0.00
+3C5                                0         0.00           0.00
+3C6                                0         0.00           0.00
+3C7                                0         0.00           0.00
+
+TOTAL                             74                                 U N I T   R E C O R D   D E V I C E   A C T I V I T Y
+                                                                                                               PAGE    1
+            OS/VS2                   SYSTEM ID TK4-             DATE 12/20/23            INTERVAL 18.23.750
+            RELEASE 03.8             MF/1 VERSION 01            TIME 07.57.17            CYCLE 0.250 SECONDS
+
+
+                             DEVICE
+DEVICE                       ACTIVITY       PERCENT        AVERAGE
+ADDRESS                      COUNT          BUSY           QLENGTH
+
+
+
+002                                0         0.00           0.00
+009                              141         0.00           0.00
+00C                                0         0.00           0.00
+00D                                0         0.00           0.00
+
+00E                                0         0.00           0.00
+00F                              139         0.00           0.00
+10C                                0         0.00           0.00
+10D                                0         0.00           0.00
+
+30E                              185         0.00           0.00
+
+TOTAL                            465                                                    MM        MM  FFFFFFFFFFFF       11
+                                                   MMM      MMM  FFFFFFFFFFFF      111
+                                                  MMMM    MMMM  FF               1111
+                                                 MM MM  MM MM  FF                 11
+                                                MM  MMMM  MM  FF                 11
+                                               MM   MM   MM  FFFFFFFF           11
+                                              MM        MM  FFFFFFFF           11
+                                             MM        MM  FF                 11
+                                            MM        MM  FF                 11
+                                           MM        MM  FF                 11
+                                          MM        MM  FF             1111111111
+                                         MM        MM  FF             1111111111
+
+
+
+                   SSSSSSSSSS   555555555555   3333333333    9999999999                                AAAAAAAAAA
+                  SSSSSSSSSSSS  555555555555  333333333333  999999999999                              AAAAAAAAAAAA
+                  SS        SS  55            33        33  99        99                              AA        AA
+                  SS            55                      33  99        99                              AA        AA
+                  SSS           55                      33  99        99                              AA        AA
+                   SSSSSSSSS    555555555            3333   999999999999                              AAAAAAAAAAAA
+                    SSSSSSSSS   5555555555           3333   999999999999                              AAAAAAAAAAAA
+                           SSS           55             33            99                              AA        AA
+                            SS            55            33            99                              AA        AA
+                  SS        SS            55  33        33  99        99                              AA        AA
+                  SSSSSSSSSSSS  555555555555  333333333333  999999999999                              AA        AA
+                   SSSSSSSSSS   55555555555    3333333333    9999999999                               AA        AA
+
+
+****A   END   STC  539  MF1                             ROOM        8.15.42 AM 20 DEC 23  PRINTER1  SYS TK4-  STC  539   END   A****
+****A   END   STC  539  MF1                             ROOM        8.15.42 AM 20 DEC 23  PRINTER1  SYS TK4-  STC  539   END   A****
+****A   END   STC  539  MF1                             ROOM        8.15.42 AM 20 DEC 23  PRINTER1  SYS TK4-  STC  539   END   A****
+****A   END   STC  539  MF1                             ROOM        8.15.42 AM 20 DEC 23  PRINTER1  SYS TK4-  STC  539   END   A****
+                                                    MM        MM  FFFFFFFFFFFF       11
+                                                   MMM      MMM  FFFFFFFFFFFF      111
+                                                  MMMM    MMMM  FF               1111
+                                                 MM MM  MM MM  FF                 11
+                                                MM  MMMM  MM  FF                 11
+                                               MM   MM   MM  FFFFFFFF           11
+                                              MM        MM  FFFFFFFF           11
+                                             MM        MM  FF                 11
+                                            MM        MM  FF                 11
+                                           MM        MM  FF                 11
+                                          MM        MM  FF             1111111111
+                                         MM        MM  FF             1111111111
+
+
+
+                   SSSSSSSSSS   555555555555   3333333333    9999999999                                AAAAAAAAAA
+                  SSSSSSSSSSSS  555555555555  333333333333  999999999999                              AAAAAAAAAAAA
+                  SS        SS  55            33        33  99        99                              AA        AA
+                  SS            55                      33  99        99                              AA        AA
+                  SSS           55                      33  99        99                              AA        AA
+                   SSSSSSSSS    555555555            3333   999999999999                              AAAAAAAAAAAA
+                    SSSSSSSSS   5555555555           3333   999999999999                              AAAAAAAAAAAA
+                           SSS           55             33            99                              AA        AA
+                            SS            55            33            99                              AA        AA
+                  SS        SS            55  33        33  99        99                              AA        AA
+                  SSSSSSSSSSSS  555555555555  333333333333  999999999999                              AA        AA
+                   SSSSSSSSSS   55555555555    3333333333    9999999999                               AA        AA
+
+
+****A  START  STC  539  MF1                             ROOM        8.27.17 AM 20 DEC 23  PRINTER1  SYS TK4-  STC  539  START  A****
+****A  START  STC  539  MF1                             ROOM        8.27.17 AM 20 DEC 23  PRINTER1  SYS TK4-  STC  539  START  A****
+****A  START  STC  539  MF1                             ROOM        8.27.17 AM 20 DEC 23  PRINTER1  SYS TK4-  STC  539  START  A****
+****A  START  STC  539  MF1                             ROOM        8.27.17 AM 20 DEC 23  PRINTER1  SYS TK4-  STC  539  START  A****
+                                                 C P U  A C T I V I T Y
+                                                                                                               PAGE    1
+            OS/VS2                   SYSTEM ID TK4-             DATE 12/20/23            INTERVAL 11.36.263
+            RELEASE 03.8             MF/1 VERSION 01            TIME 08.15.41
+
+
+
+
+CPU                WAIT TIME           WAIT TIME           CPU SERIAL
+NUMBER             HH.MM.SS.TTT        PERCENTAGE          NUMBER
+
+
+ 0                 00.11.31.212        99.27               000611
+
+
+ 1                 00.11.33.325        99.57               100611
+
+
+AVERAGE                                99.42                                              P A G I N G  A C T I V I T Y
+                                                                                                               PAGE    1
+            OS/VS2                   SYSTEM ID TK4-             DATE 12/20/23            INTERVAL 11.36.263
+            RELEASE 03.8             MF/1 VERSION 01            TIME 08.15.41
+
+
+                                               MAIN STORAGE PAGING RATES
+                                                      PER SECOND
+--------------------------------------------------------------------------------------------------------------------
+
+                                                      PAGE IN                                   PAGE OUT
+                    PAGE RECLAIMS      ------------------------------------       ----------------------------------
+                  ----------------     ----------------    ----------------       --------------    ----------------
+                           PERCENT                                  PERCENT                                  PERCENT
+                           OF                                       OF                                       OF
+                           TOTAL                  NON      TOTAL    TOTAL                  NON      TOTAL    TOTAL
+CATEGORY          RATE     SUM         SWAP       SWAP     RATE     SUM           SWAP     SWAP     RATE     SUM
+
+
+PAGEABLE SYSTEM
+AREAS
+     VIO            0.00        0                   0.00     0.00        0                   0.00     0.00        0
+
+     NON VIO        0.04       11                   0.00     0.00        0                   0.01     0.01        0
+                  ------   ------                 ------   ------   ------                 ------   ------   ------
+     SUM            0.04       11                   0.00     0.00        0                   0.01     0.01        0
+
+ADDRESS SPACES
+     VIO            0.00        0                   0.00     0.00        0                   0.00     0.00        0
+
+     NON VIO        0.34       89        2.44       0.29     2.73      100          3.29     0.02     3.31      100
+                  ------   ------      ------     ------   ------   ------        ------   ------   ------   ------
+     SUM            0.34       89        2.44       0.29     2.73      100          3.29     0.02     3.31      100
+
+TOTAL SYSTEM
+     VIO            0.00        0                   0.00     0.00        0                   0.00     0.00        0
+
+     NON VIO        0.38      100        2.44       0.29     2.73      100          3.29     0.02     3.32      100
+                  ------   ------      ------     ------   ------   ------        ------   ------   ------   ------
+     SUM            0.38      100        2.44       0.29     2.73      100          3.29     0.02     3.32      100
+
+
+      AUXILIARY STORAGE USER POOL                     PAGEABLE MAIN STORAGE COUNTS               SWAP COUNTS
+-------------------------------------------         --------------------------------          --------------------
+
+                       PAGE                                          PAGE
+                       SLOTS        PERCENT                          FRAMES  PERCENT
+
+
+
+AVAILABLE SLOTS           19,144        96          UNUSED FRAMES    3271        83           SWAPS            333
+
+VIO SLOTS                      0         0          DATA PAGES        676        17           AVERAGE
+                                                                     ----    ------           PAGES PER     7
+NON-VIO SLOTS                776         4          TOTAL FRAMES     3947       100           SWAP OUT
+
+UNAVAILABLE SLOTS              0         0                                                    AVERAGE
+                       ---------    ------                                                    PAGES PER     5
+TOTAL SLOTS               19,920       100                                                    SWAP IN                                           W O R K L O A D   A C T I V I T Y
+                                                                                                               PAGE    1
+            OS/VS2                   SYSTEM ID TK4-             DATE 12/20/23            INTERVAL 11.36.263
+            RELEASE 03.8             MF/1 VERSION 01            TIME 08.15.41            IEAIPS00
+
+
+PERFORM        PERFORM        SERVICE           AVERAGE                    AVERAGE        ENDED          AVERAGE TIME OF
+GROUP          GROUP          IN                TRANS.       WORKLOAD      TRANS-         TRANS-         ENDED TRANS.
+NUMBER         PERIOD         INTERVAL          SRV RATE     LEVEL         ACTIONS        ACTIONS        HHH.MM.SS.TTT
+
+
+001            1                  3,381               0        100.00          5.04             0        000.00.00.000
+               2                  ZEROS
+
+001            ALL                3,381               0        100.00          5.04             0        000.00.00.000
+
+
+002            1                    625           1,950          0.97          0.00            38        000.00.00.008
+               2 - 3              ZEROS
+
+002            ALL                  625           1,950          0.97          0.00            38        000.00.00.008
+
+
+003 - 004      ZEROS
+
+SYSTEM TOTAL                      4,006               1         84.55          5.04            38        000.00.00.008                                            C H A N N E L   A C T I V I T Y
+                                                                                                               PAGE    1
+            OS/VS2                   SYSTEM ID TK4-             DATE 12/20/23            INTERVAL 11.36.263
+            RELEASE 03.8             MF/1 VERSION 01            TIME 08.15.41            CYCLE 0.250 SECONDS
+
+
+
+     CHANNEL            CHANNEL        PERCENT        PERCENT
+     NUMBER             ACTIVITY       CHANNEL        CHAN BUSY
+CPU  AND TYPE           COUNT          BUSY           & CPU WAIT
+
+
+ 0   0  BYTE MPX             88
+     1  BLOCK MPX           419         0.00           0.00
+     2  BLOCK MPX           934         0.00           0.00
+     3  BLOCK MPX             3         0.00           0.00
+
+     4  BLOCK MPX             0         0.00           0.00
+     6  BLOCK MPX             0         0.00           0.00
+
+TOTAL                     1,444
+
+
+ 1   0  BYTE MPX             88
+     1  BLOCK MPX           419         0.00           0.00
+     2  BLOCK MPX           934         0.00           0.00
+     3  BLOCK MPX             3         0.00           0.00
+
+     4  BLOCK MPX             0         0.00           0.00
+     6  BLOCK MPX             0         0.00           0.00
+
+TOTAL                     1,444                               M A G N E T I C   T A P E   D E V I C E   A C T I V I T Y
+                                                                                                               PAGE    1
+            OS/VS2                   SYSTEM ID TK4-             DATE 12/20/23            INTERVAL 11.36.263
+            RELEASE 03.8             MF/1 VERSION 01            TIME 08.15.41            CYCLE 0.250 SECONDS
+
+
+                             DEVICE
+DEVICE        VOLUME         ACTIVITY       PERCENT        AVERAGE
+ADDRESS       SERIAL         COUNT          BUSY           QLENGTH
+
+
+
+480                                0         0.00           0.00
+
+TOTAL                              0                            C O M M U N I C A T I O N   E Q U I P M E N T   A C T I V I T Y
+                                                                                                               PAGE    1
+            OS/VS2                   SYSTEM ID TK4-             DATE 12/20/23            INTERVAL 11.36.263
+            RELEASE 03.8             MF/1 VERSION 01            TIME 08.15.41            CYCLE 0.250 SECONDS
+
+
+                             DEVICE
+DEVICE                       ACTIVITY       PERCENT        AVERAGE
+ADDRESS                      COUNT          BUSY           QLENGTH
+
+
+
+660                                0         0.00           0.00
+661                                0         0.00           0.00
+662                                0         0.00           0.00
+663                                0         0.00           0.00
+
+664                                0         0.00           0.00
+665                                0         0.00           0.00
+666                                0         0.00           0.00
+667                                0         0.00           0.00
+
+668                                0         0.00           0.00
+669                                0         0.00           0.00
+66A                                0         0.00           0.00
+66B                                0         0.00           0.00
+
+670                                0        100.0           0.00
+671                                0        100.0           0.00
+672                                0        100.0           0.00
+673                                0        100.0           0.00
+
+680                                0        100.0           0.00
+681                                0        100.0           0.00
+682                                0        100.0           0.00
+683                                0        100.0           0.00
+
+688                                0        100.0           0.00
+689                                0        100.0           0.00
+68A                                0        100.0           0.00
+68B                                0        100.0           0.00
+
+68C                                0        100.0           0.00
+68D                                0        100.0           0.00
+68E                                0        100.0           0.00
+68F                                0        100.0           0.00
+
+TOTAL                              0                               D I R E C T   A C C E S S   D E V I C E   A C T I V I T Y
+                                                                                                               PAGE    1
+            OS/VS2                   SYSTEM ID TK4-             DATE 12/20/23            INTERVAL 11.36.263
+            RELEASE 03.8             MF/1 VERSION 01            TIME 08.15.41            CYCLE 0.250 SECONDS
+
+
+                             DEVICE
+DEVICE        VOLUME         ACTIVITY       PERCENT        AVERAGE
+ADDRESS       SERIAL         COUNT          BUSY           QLENGTH
+
+
+
+131           SORT01               0         0.00           0.00
+132           SORT02               0         0.00           0.00
+133           SORT03               0         0.00           0.00
+134           SORT04               0         0.00           0.00
+
+135           SORT05               0         0.00           0.00
+136           SORT06               0         0.00           0.00
+140           WORK00               0         0.00           0.00
+148           MVSRES              83         0.00           0.00
+
+149           SMP001               0         0.00           0.00
+14A           SMP002               0         0.00           0.00
+14B           SMP003               0         0.00           0.00
+14C           SMP004               0         0.00           0.00
+
+152           HASP00              18         0.00           0.00
+160           PAGE00             146         0.00           0.00
+161           PAGE01             172         0.00           0.00
+170           WORK01               0         0.00           0.00
+
+180           WORK02               0         0.00           0.00
+190           WORK03               0         0.00           0.00
+191           MVSCAT               0         0.00           0.00
+240           PUB000             184         0.00           0.00
+
+241           PUB010              64         0.00           0.00
+248           MVSDLB             686         0.00           0.00
+270           PUB001               0         0.00           0.00
+271           PUB011               0         0.00           0.00
+
+280           PUB002               0         0.00           0.00
+281           PUB012               0         0.00           0.00
+290           PUB003               0         0.00           0.00
+291           PUB013               0         0.00           0.00
+
+TOTAL                          1,353                                    G R A P H I C S   D E V I C E   A C T I V I T Y
+                                                                                                               PAGE    1
+            OS/VS2                   SYSTEM ID TK4-             DATE 12/20/23            INTERVAL 11.36.263
+            RELEASE 03.8             MF/1 VERSION 01            TIME 08.15.41            CYCLE 0.250 SECONDS
+
+
+                             DEVICE
+DEVICE                       ACTIVITY       PERCENT        AVERAGE
+ADDRESS                      COUNT          BUSY           QLENGTH
+
+
+
+0C0                               76         0.00           0.00
+0C1                                0         0.00           0.00
+0C2                                0         0.00           0.00
+0C3                                0         0.00           0.00
+
+0C4                                0         0.00           0.00
+0C5                                0         0.00           0.00
+0C6                                0         0.00           0.00
+0C7                                0         0.00           0.00
+
+3C0                                0         0.00           0.00
+3C1                                0         0.00           0.00
+3C2                                0         0.00           0.00
+3C3                                0         0.00           0.00
+
+3C4                                0         0.00           0.00
+3C5                                0         0.00           0.00
+3C6                                0         0.00           0.00
+3C7                                0         0.00           0.00
+
+TOTAL                             76                                 U N I T   R E C O R D   D E V I C E   A C T I V I T Y
+                                                                                                               PAGE    1
+            OS/VS2                   SYSTEM ID TK4-             DATE 12/20/23            INTERVAL 11.36.263
+            RELEASE 03.8             MF/1 VERSION 01            TIME 08.15.41            CYCLE 0.250 SECONDS
+
+
+                             DEVICE
+DEVICE                       ACTIVITY       PERCENT        AVERAGE
+ADDRESS                      COUNT          BUSY           QLENGTH
+
+
+
+002                                0         0.00           0.00
+009                                3         0.00           0.00
+00C                                0         0.00           0.00
+00D                                0         0.00           0.00
+
+00E                                9         0.00           0.00
+00F                                0         0.00           0.00
+10C                                0         0.00           0.00
+10D                                0         0.00           0.00
+
+30E                                3         0.00           0.00
+
+TOTAL                             15                                                    MM        MM  FFFFFFFFFFFF       11
+                                                   MMM      MMM  FFFFFFFFFFFF      111
+                                                  MMMM    MMMM  FF               1111
+                                                 MM MM  MM MM  FF                 11
+                                                MM  MMMM  MM  FF                 11
+                                               MM   MM   MM  FFFFFFFF           11
+                                              MM        MM  FFFFFFFF           11
+                                             MM        MM  FF                 11
+                                            MM        MM  FF                 11
+                                           MM        MM  FF                 11
+                                          MM        MM  FF             1111111111
+                                         MM        MM  FF             1111111111
+
+
+
+                   SSSSSSSSSS   555555555555   3333333333    9999999999                                AAAAAAAAAA
+                  SSSSSSSSSSSS  555555555555  333333333333  999999999999                              AAAAAAAAAAAA
+                  SS        SS  55            33        33  99        99                              AA        AA
+                  SS            55                      33  99        99                              AA        AA
+                  SSS           55                      33  99        99                              AA        AA
+                   SSSSSSSSS    555555555            3333   999999999999                              AAAAAAAAAAAA
+                    SSSSSSSSS   5555555555           3333   999999999999                              AAAAAAAAAAAA
+                           SSS           55             33            99                              AA        AA
+                            SS            55            33            99                              AA        AA
+                  SS        SS            55  33        33  99        99                              AA        AA
+                  SSSSSSSSSSSS  555555555555  333333333333  999999999999                              AA        AA
+                   SSSSSSSSSS   55555555555    3333333333    9999999999                               AA        AA
+
+
+****A   END   STC  539  MF1                             ROOM        8.27.17 AM 20 DEC 23  PRINTER1  SYS TK4-  STC  539   END   A****
+****A   END   STC  539  MF1                             ROOM        8.27.17 AM 20 DEC 23  PRINTER1  SYS TK4-  STC  539   END   A****
+****A   END   STC  539  MF1                             ROOM        8.27.17 AM 20 DEC 23  PRINTER1  SYS TK4-  STC  539   END   A****
+****A   END   STC  539  MF1                             ROOM        8.27.17 AM 20 DEC 23  PRINTER1  SYS TK4-  STC  539   END   A****
+                                                    MM        MM  FFFFFFFFFFFF       11
+                                                   MMM      MMM  FFFFFFFFFFFF      111
+                                                  MMMM    MMMM  FF               1111
+                                                 MM MM  MM MM  FF                 11
+                                                MM  MMMM  MM  FF                 11
+                                               MM   MM   MM  FFFFFFFF           11
+                                              MM        MM  FFFFFFFF           11
+                                             MM        MM  FF                 11
+                                            MM        MM  FF                 11
+                                           MM        MM  FF                 11
+                                          MM        MM  FF             1111111111
+                                         MM        MM  FF             1111111111
+
+
+
+                   SSSSSSSSSS   555555555555   3333333333    9999999999                                AAAAAAAAAA
+                  SSSSSSSSSSSS  555555555555  333333333333  999999999999                              AAAAAAAAAAAA
+                  SS        SS  55            33        33  99        99                              AA        AA
+                  SS            55                      33  99        99                              AA        AA
+                  SSS           55                      33  99        99                              AA        AA
+                   SSSSSSSSS    555555555            3333   999999999999                              AAAAAAAAAAAA
+                    SSSSSSSSS   5555555555           3333   999999999999                              AAAAAAAAAAAA
+                           SSS           55             33            99                              AA        AA
+                            SS            55            33            99                              AA        AA
+                  SS        SS            55  33        33  99        99                              AA        AA
+                  SSSSSSSSSSSS  555555555555  333333333333  999999999999                              AA        AA
+                   SSSSSSSSSS   55555555555    3333333333    9999999999                               AA        AA
+
+
+****A  START  STC  539  MF1                             ROOM        8.42.17 AM 20 DEC 23  PRINTER1  SYS TK4-  STC  539  START  A****
+****A  START  STC  539  MF1                             ROOM        8.42.17 AM 20 DEC 23  PRINTER1  SYS TK4-  STC  539  START  A****
+****A  START  STC  539  MF1                             ROOM        8.42.17 AM 20 DEC 23  PRINTER1  SYS TK4-  STC  539  START  A****
+****A  START  STC  539  MF1                             ROOM        8.42.17 AM 20 DEC 23  PRINTER1  SYS TK4-  STC  539  START  A****
+                                                 C P U  A C T I V I T Y
+                                                                                                               PAGE    1
+            OS/VS2                   SYSTEM ID TK4-             DATE 12/20/23            INTERVAL 14.59.999
+            RELEASE 03.8             MF/1 VERSION 01            TIME 08.27.17
+
+
+
+
+CPU                WAIT TIME           WAIT TIME           CPU SERIAL
+NUMBER             HH.MM.SS.TTT        PERCENTAGE          NUMBER
+
+
+ 0                 00.14.54.399        99.37               000611
+
+
+ 1                 00.14.56.228        99.58               100611
+
+
+AVERAGE                                99.47                                              P A G I N G  A C T I V I T Y
+                                                                                                               PAGE    1
+            OS/VS2                   SYSTEM ID TK4-             DATE 12/20/23            INTERVAL 14.59.999
+            RELEASE 03.8             MF/1 VERSION 01            TIME 08.27.17
+
+
+                                               MAIN STORAGE PAGING RATES
+                                                      PER SECOND
+--------------------------------------------------------------------------------------------------------------------
+
+                                                      PAGE IN                                   PAGE OUT
+                    PAGE RECLAIMS      ------------------------------------       ----------------------------------
+                  ----------------     ----------------    ----------------       --------------    ----------------
+                           PERCENT                                  PERCENT                                  PERCENT
+                           OF                                       OF                                       OF
+                           TOTAL                  NON      TOTAL    TOTAL                  NON      TOTAL    TOTAL
+CATEGORY          RATE     SUM         SWAP       SWAP     RATE     SUM           SWAP     SWAP     RATE     SUM
+
+
+PAGEABLE SYSTEM
+AREAS
+     VIO            0.00        0                   0.00     0.00        0                   0.00     0.00        0
+
+     NON VIO        0.09       20                   0.00     0.00        0                   0.01     0.01        0
+                  ------   ------                 ------   ------   ------                 ------   ------   ------
+     SUM            0.09       20                   0.00     0.00        0                   0.01     0.01        0
+
+ADDRESS SPACES
+     VIO            0.00        0                   0.00     0.00        0                   0.00     0.00        0
+
+     NON VIO        0.35       80        2.43       0.31     2.75      100          3.33     0.01     3.34      100
+                  ------   ------      ------     ------   ------   ------        ------   ------   ------   ------
+     SUM            0.35       80        2.43       0.31     2.75      100          3.33     0.01     3.34      100
+
+TOTAL SYSTEM
+     VIO            0.00        0                   0.00     0.00        0                   0.00     0.00        0
+
+     NON VIO        0.43      100        2.43       0.31     2.75      100          3.33     0.01     3.35      100
+                  ------   ------      ------     ------   ------   ------        ------   ------   ------   ------
+     SUM            0.43      100        2.43       0.31     2.75      100          3.33     0.01     3.35      100
+
+
+      AUXILIARY STORAGE USER POOL                     PAGEABLE MAIN STORAGE COUNTS               SWAP COUNTS
+-------------------------------------------         --------------------------------          --------------------
+
+                       PAGE                                          PAGE
+                       SLOTS        PERCENT                          FRAMES  PERCENT
+
+
+
+AVAILABLE SLOTS           19,136        96          UNUSED FRAMES    3246        82           SWAPS            429
+
+VIO SLOTS                      0         0          DATA PAGES        701        18           AVERAGE
+                                                                     ----    ------           PAGES PER     7
+NON-VIO SLOTS                784         4          TOTAL FRAMES     3947       100           SWAP OUT
+
+UNAVAILABLE SLOTS              0         0                                                    AVERAGE
+                       ---------    ------                                                    PAGES PER     5
+TOTAL SLOTS               19,920       100                                                    SWAP IN                                           W O R K L O A D   A C T I V I T Y
+                                                                                                               PAGE    1
+            OS/VS2                   SYSTEM ID TK4-             DATE 12/20/23            INTERVAL 14.59.999
+            RELEASE 03.8             MF/1 VERSION 01            TIME 08.27.17            IEAIPS00
+
+
+PERFORM        PERFORM        SERVICE           AVERAGE                    AVERAGE        ENDED          AVERAGE TIME OF
+GROUP          GROUP          IN                TRANS.       WORKLOAD      TRANS-         TRANS-         ENDED TRANS.
+NUMBER         PERIOD         INTERVAL          SRV RATE     LEVEL         ACTIONS        ACTIONS        HHH.MM.SS.TTT
+
+
+001            1                  4,015               0        100.00          5.04             0        000.00.00.000
+               2                  ZEROS
+
+001            ALL                4,015               0        100.00          5.04             0        000.00.00.000
+
+
+002            1                  1,867           3,106          0.94          0.00            47        000.00.00.012
+               2 - 3              ZEROS
+
+002            ALL                1,867           3,106          0.94          0.00            47        000.00.00.012
+
+
+003 - 004      ZEROS
+
+SYSTEM TOTAL                      5,882               1         68.55          5.04            47        000.00.00.012                                            C H A N N E L   A C T I V I T Y
+                                                                                                               PAGE    1
+            OS/VS2                   SYSTEM ID TK4-             DATE 12/20/23            INTERVAL 14.59.999
+            RELEASE 03.8             MF/1 VERSION 01            TIME 08.27.17            CYCLE 0.250 SECONDS
+
+
+
+     CHANNEL            CHANNEL        PERCENT        PERCENT
+     NUMBER             ACTIVITY       CHANNEL        CHAN BUSY
+CPU  AND TYPE           COUNT          BUSY           & CPU WAIT
+
+
+ 0   0  BYTE MPX            105
+     1  BLOCK MPX           611         0.00           0.00
+     2  BLOCK MPX         1,633         0.00           0.00
+     3  BLOCK MPX             3         0.00           0.00
+
+     4  BLOCK MPX             0         0.00           0.00
+     6  BLOCK MPX             0         0.00           0.00
+
+TOTAL                     2,352
+
+
+ 1   0  BYTE MPX            105
+     1  BLOCK MPX           611         0.00           0.00
+     2  BLOCK MPX         1,633         0.00           0.00
+     3  BLOCK MPX             3         0.00           0.00
+
+     4  BLOCK MPX             0         0.00           0.00
+     6  BLOCK MPX             0         0.00           0.00
+
+TOTAL                     2,352                               M A G N E T I C   T A P E   D E V I C E   A C T I V I T Y
+                                                                                                               PAGE    1
+            OS/VS2                   SYSTEM ID TK4-             DATE 12/20/23            INTERVAL 14.59.999
+            RELEASE 03.8             MF/1 VERSION 01            TIME 08.27.17            CYCLE 0.250 SECONDS
+
+
+                             DEVICE
+DEVICE        VOLUME         ACTIVITY       PERCENT        AVERAGE
+ADDRESS       SERIAL         COUNT          BUSY           QLENGTH
+
+
+
+480                                0         0.00           0.00
+
+TOTAL                              0                            C O M M U N I C A T I O N   E Q U I P M E N T   A C T I V I T Y
+                                                                                                               PAGE    1
+            OS/VS2                   SYSTEM ID TK4-             DATE 12/20/23            INTERVAL 14.59.999
+            RELEASE 03.8             MF/1 VERSION 01            TIME 08.27.17            CYCLE 0.250 SECONDS
+
+
+                             DEVICE
+DEVICE                       ACTIVITY       PERCENT        AVERAGE
+ADDRESS                      COUNT          BUSY           QLENGTH
+
+
+
+660                                0         0.00           0.00
+661                                0         0.00           0.00
+662                                0         0.00           0.00
+663                                0         0.00           0.00
+
+664                                0         0.00           0.00
+665                                0         0.00           0.00
+666                                0         0.00           0.00
+667                                0         0.00           0.00
+
+668                                0         0.00           0.00
+669                                0         0.00           0.00
+66A                                0         0.00           0.00
+66B                                0         0.00           0.00
+
+670                                0        100.0           0.00
+671                                0        100.0           0.00
+672                                0        100.0           0.00
+673                                0        100.0           0.00
+
+680                                0        100.0           0.00
+681                                0        100.0           0.00
+682                                0        100.0           0.00
+683                                0        100.0           0.00
+
+688                                0        100.0           0.00
+689                                0        100.0           0.00
+68A                                0        100.0           0.00
+68B                                0        100.0           0.00
+
+68C                                0        100.0           0.00
+68D                                0        100.0           0.00
+68E                                0        100.0           0.00
+68F                                0        100.0           0.00
+
+TOTAL                              0                               D I R E C T   A C C E S S   D E V I C E   A C T I V I T Y
+                                                                                                               PAGE    1
+            OS/VS2                   SYSTEM ID TK4-             DATE 12/20/23            INTERVAL 14.59.999
+            RELEASE 03.8             MF/1 VERSION 01            TIME 08.27.17            CYCLE 0.250 SECONDS
+
+
+                             DEVICE
+DEVICE        VOLUME         ACTIVITY       PERCENT        AVERAGE
+ADDRESS       SERIAL         COUNT          BUSY           QLENGTH
+
+
+
+131           SORT01               0         0.00           0.00
+132           SORT02               0         0.00           0.00
+133           SORT03               0         0.00           0.00
+134           SORT04               0         0.00           0.00
+
+135           SORT05               0         0.00           0.00
+136           SORT06               0         0.00           0.00
+140           WORK00               0         0.00           0.00
+148           MVSRES              95         0.00           0.00
+
+149           SMP001               0         0.00           0.00
+14A           SMP002               0         0.00           0.00
+14B           SMP003               0         0.00           0.00
+14C           SMP004               0         0.00           0.00
+
+152           HASP00              19         0.03           0.00
+160           PAGE00             194         0.00           0.00
+161           PAGE01             233         0.00           0.00
+170           WORK01               0         0.00           0.00
+
+180           WORK02               0         0.00           0.00
+190           WORK03               0         0.00           0.00
+191           MVSCAT              70         0.00           0.00
+240           PUB000             618         0.00           0.00
+
+241           PUB010             138         0.00           0.00
+248           MVSDLB             877         0.00           0.00
+270           PUB001               0         0.00           0.00
+271           PUB011               0         0.00           0.00
+
+280           PUB002               0         0.00           0.00
+281           PUB012               0         0.00           0.00
+290           PUB003               0         0.00           0.00
+291           PUB013               0         0.00           0.00
+
+TOTAL                          2,244                                    G R A P H I C S   D E V I C E   A C T I V I T Y
+                                                                                                               PAGE    1
+            OS/VS2                   SYSTEM ID TK4-             DATE 12/20/23            INTERVAL 14.59.999
+            RELEASE 03.8             MF/1 VERSION 01            TIME 08.27.17            CYCLE 0.250 SECONDS
+
+
+                             DEVICE
+DEVICE                       ACTIVITY       PERCENT        AVERAGE
+ADDRESS                      COUNT          BUSY           QLENGTH
+
+
+
+0C0                               95         0.00           0.00
+0C1                                0         0.00           0.00
+0C2                                0         0.00           0.00
+0C3                                0         0.00           0.00
+
+0C4                                0         0.00           0.00
+0C5                                0         0.00           0.00
+0C6                                0         0.00           0.00
+0C7                                0         0.00           0.00
+
+3C0                                0         0.00           0.00
+3C1                                0         0.00           0.00
+3C2                                0         0.00           0.00
+3C3                                0         0.00           0.00
+
+3C4                                0         0.00           0.00
+3C5                                0         0.00           0.00
+3C6                                0         0.00           0.00
+3C7                                0         0.00           0.00
+
+TOTAL                             95                                 U N I T   R E C O R D   D E V I C E   A C T I V I T Y
+                                                                                                               PAGE    1
+            OS/VS2                   SYSTEM ID TK4-             DATE 12/20/23            INTERVAL 14.59.999
+            RELEASE 03.8             MF/1 VERSION 01            TIME 08.27.17            CYCLE 0.250 SECONDS
+
+
+                             DEVICE
+DEVICE                       ACTIVITY       PERCENT        AVERAGE
+ADDRESS                      COUNT          BUSY           QLENGTH
+
+
+
+002                                0         0.00           0.00
+009                                3         0.00           0.00
+00C                                0         0.00           0.00
+00D                                0         0.00           0.00
+
+00E                                7         0.00           0.00
+00F                                0         0.00           0.00
+10C                                0         0.00           0.00
+10D                                0         0.00           0.00
+
+30E                                3         0.00           0.00
+
+TOTAL                             13                                                    MM        MM  FFFFFFFFFFFF       11
+                                                   MMM      MMM  FFFFFFFFFFFF      111
+                                                  MMMM    MMMM  FF               1111
+                                                 MM MM  MM MM  FF                 11
+                                                MM  MMMM  MM  FF                 11
+                                               MM   MM   MM  FFFFFFFF           11
+                                              MM        MM  FFFFFFFF           11
+                                             MM        MM  FF                 11
+                                            MM        MM  FF                 11
+                                           MM        MM  FF                 11
+                                          MM        MM  FF             1111111111
+                                         MM        MM  FF             1111111111
+
+
+
+                   SSSSSSSSSS   555555555555   3333333333    9999999999                                AAAAAAAAAA
+                  SSSSSSSSSSSS  555555555555  333333333333  999999999999                              AAAAAAAAAAAA
+                  SS        SS  55            33        33  99        99                              AA        AA
+                  SS            55                      33  99        99                              AA        AA
+                  SSS           55                      33  99        99                              AA        AA
+                   SSSSSSSSS    555555555            3333   999999999999                              AAAAAAAAAAAA
+                    SSSSSSSSS   5555555555           3333   999999999999                              AAAAAAAAAAAA
+                           SSS           55             33            99                              AA        AA
+                            SS            55            33            99                              AA        AA
+                  SS        SS            55  33        33  99        99                              AA        AA
+                  SSSSSSSSSSSS  555555555555  333333333333  999999999999                              AA        AA
+                   SSSSSSSSSS   55555555555    3333333333    9999999999                               AA        AA
+
+
+****A   END   STC  539  MF1                             ROOM        8.42.17 AM 20 DEC 23  PRINTER1  SYS TK4-  STC  539   END   A****
+****A   END   STC  539  MF1                             ROOM        8.42.17 AM 20 DEC 23  PRINTER1  SYS TK4-  STC  539   END   A****
+****A   END   STC  539  MF1                             ROOM        8.42.17 AM 20 DEC 23  PRINTER1  SYS TK4-  STC  539   END   A****
+****A   END   STC  539  MF1                             ROOM        8.42.17 AM 20 DEC 23  PRINTER1  SYS TK4-  STC  539   END   A****
+                                                    MM        MM  FFFFFFFFFFFF       11
+                                                   MMM      MMM  FFFFFFFFFFFF      111
+                                                  MMMM    MMMM  FF               1111
+                                                 MM MM  MM MM  FF                 11
+                                                MM  MMMM  MM  FF                 11
+                                               MM   MM   MM  FFFFFFFF           11
+                                              MM        MM  FFFFFFFF           11
+                                             MM        MM  FF                 11
+                                            MM        MM  FF                 11
+                                           MM        MM  FF                 11
+                                          MM        MM  FF             1111111111
+                                         MM        MM  FF             1111111111
+
+
+
+                   SSSSSSSSSS   555555555555   3333333333    9999999999                                AAAAAAAAAA
+                  SSSSSSSSSSSS  555555555555  333333333333  999999999999                              AAAAAAAAAAAA
+                  SS        SS  55            33        33  99        99                              AA        AA
+                  SS            55                      33  99        99                              AA        AA
+                  SSS           55                      33  99        99                              AA        AA
+                   SSSSSSSSS    555555555            3333   999999999999                              AAAAAAAAAAAA
+                    SSSSSSSSS   5555555555           3333   999999999999                              AAAAAAAAAAAA
+                           SSS           55             33            99                              AA        AA
+                            SS            55            33            99                              AA        AA
+                  SS        SS            55  33        33  99        99                              AA        AA
+                  SSSSSSSSSSSS  555555555555  333333333333  999999999999                              AA        AA
+                   SSSSSSSSSS   55555555555    3333333333    9999999999                               AA        AA
+
+
+****A  START  STC  539  MF1                             ROOM        8.57.17 AM 20 DEC 23  PRINTER1  SYS TK4-  STC  539  START  A****
+****A  START  STC  539  MF1                             ROOM        8.57.17 AM 20 DEC 23  PRINTER1  SYS TK4-  STC  539  START  A****
+****A  START  STC  539  MF1                             ROOM        8.57.17 AM 20 DEC 23  PRINTER1  SYS TK4-  STC  539  START  A****
+****A  START  STC  539  MF1                             ROOM        8.57.17 AM 20 DEC 23  PRINTER1  SYS TK4-  STC  539  START  A****
+                                                 C P U  A C T I V I T Y
+                                                                                                               PAGE    1
+            OS/VS2                   SYSTEM ID TK4-             DATE 12/20/23            INTERVAL 14.59.995
+            RELEASE 03.8             MF/1 VERSION 01            TIME 08.42.17
+
+
+
+
+CPU                WAIT TIME           WAIT TIME           CPU SERIAL
+NUMBER             HH.MM.SS.TTT        PERCENTAGE          NUMBER
+
+
+ 0                 00.14.53.934        99.32               000611
+
+
+ 1                 00.14.56.103        99.56               100611
+
+
+AVERAGE                                99.44                                              P A G I N G  A C T I V I T Y
+                                                                                                               PAGE    1
+            OS/VS2                   SYSTEM ID TK4-             DATE 12/20/23            INTERVAL 14.59.995
+            RELEASE 03.8             MF/1 VERSION 01            TIME 08.42.17
+
+
+                                               MAIN STORAGE PAGING RATES
+                                                      PER SECOND
+--------------------------------------------------------------------------------------------------------------------
+
+                                                      PAGE IN                                   PAGE OUT
+                    PAGE RECLAIMS      ------------------------------------       ----------------------------------
+                  ----------------     ----------------    ----------------       --------------    ----------------
+                           PERCENT                                  PERCENT                                  PERCENT
+                           OF                                       OF                                       OF
+                           TOTAL                  NON      TOTAL    TOTAL                  NON      TOTAL    TOTAL
+CATEGORY          RATE     SUM         SWAP       SWAP     RATE     SUM           SWAP     SWAP     RATE     SUM
+
+
+PAGEABLE SYSTEM
+AREAS
+     VIO            0.00        0                   0.00     0.00        0                   0.00     0.00        0
+
+     NON VIO        0.16       25                   0.01     0.01        0                   0.01     0.01        0
+                  ------   ------                 ------   ------   ------                 ------   ------   ------
+     SUM            0.16       25                   0.01     0.01        0                   0.01     0.01        0
+
+ADDRESS SPACES
+     VIO            0.00        0                   0.00     0.00        0                   0.00     0.00        0
+
+     NON VIO        0.46       74        2.59       0.33     2.92      100          3.95     0.01     3.96      100
+                  ------   ------      ------     ------   ------   ------        ------   ------   ------   ------
+     SUM            0.47       75        2.59       0.33     2.92      100          3.95     0.01     3.96      100
+
+TOTAL SYSTEM
+     VIO            0.00        0                   0.00     0.00        0                   0.00     0.00        0
+
+     NON VIO        0.62      100        2.59       0.34     2.93      100          3.95     0.01     3.97      100
+                  ------   ------      ------     ------   ------   ------        ------   ------   ------   ------
+     SUM            0.62      100        2.59       0.34     2.93      100          3.95     0.02     3.97      100
+
+
+      AUXILIARY STORAGE USER POOL                     PAGEABLE MAIN STORAGE COUNTS               SWAP COUNTS
+-------------------------------------------         --------------------------------          --------------------
+
+                       PAGE                                          PAGE
+                       SLOTS        PERCENT                          FRAMES  PERCENT
+
+
+
+AVAILABLE SLOTS           19,135        96          UNUSED FRAMES    3105        79           SWAPS            448
+
+VIO SLOTS                      0         0          DATA PAGES        842        21           AVERAGE
+                                                                     ----    ------           PAGES PER     8
+NON-VIO SLOTS                785         4          TOTAL FRAMES     3947       100           SWAP OUT
+
+UNAVAILABLE SLOTS              0         0                                                    AVERAGE
+                       ---------    ------                                                    PAGES PER     5
+TOTAL SLOTS               19,920       100                                                    SWAP IN                                           W O R K L O A D   A C T I V I T Y
+                                                                                                               PAGE    1
+            OS/VS2                   SYSTEM ID TK4-             DATE 12/20/23            INTERVAL 14.59.995
+            RELEASE 03.8             MF/1 VERSION 01            TIME 08.42.17            IEAIPS00
+
+
+PERFORM        PERFORM        SERVICE           AVERAGE                    AVERAGE        ENDED          AVERAGE TIME OF
+GROUP          GROUP          IN                TRANS.       WORKLOAD      TRANS-         TRANS-         ENDED TRANS.
+NUMBER         PERIOD         INTERVAL          SRV RATE     LEVEL         ACTIONS        ACTIONS        HHH.MM.SS.TTT
+
+
+001            1                  4,188               0        100.00          5.04             0        000.00.00.000
+               2                  ZEROS
+
+001            ALL                4,188               0        100.00          5.04             0        000.00.00.000
+
+
+002            1                  2,511           3,197          0.93          0.00            63        000.00.00.012
+               2 - 3              ZEROS
+
+002            ALL                2,511           3,197          0.93          0.00            63        000.00.00.012
+
+
+003            ZEROS
+
+
+004            1                    875           6,147          0.84          0.00             1        000.00.00.190
+
+004            ALL                  875           6,147          0.84          0.00             1        000.00.00.190
+
+
+
+
+SYSTEM TOTAL                      7,574               1         55.70          5.04            64        000.00.00.014                                            C H A N N E L   A C T I V I T Y
+                                                                                                               PAGE    1
+            OS/VS2                   SYSTEM ID TK4-             DATE 12/20/23            INTERVAL 14.59.995
+            RELEASE 03.8             MF/1 VERSION 01            TIME 08.42.17            CYCLE 0.250 SECONDS
+
+
+
+     CHANNEL            CHANNEL        PERCENT        PERCENT
+     NUMBER             ACTIVITY       CHANNEL        CHAN BUSY
+CPU  AND TYPE           COUNT          BUSY           & CPU WAIT
+
+
+ 0   0  BYTE MPX            145
+     1  BLOCK MPX         1,377         0.00           0.00
+     2  BLOCK MPX         2,146         0.00           0.00
+     3  BLOCK MPX            14         0.00           0.00
+
+     4  BLOCK MPX             0         0.00           0.00
+     6  BLOCK MPX             0         0.00           0.00
+
+TOTAL                     3,682
+
+
+ 1   0  BYTE MPX            145
+     1  BLOCK MPX         1,377         0.00           0.00
+     2  BLOCK MPX         2,146         0.00           0.00
+     3  BLOCK MPX            14         0.00           0.00
+
+     4  BLOCK MPX             0         0.00           0.00
+     6  BLOCK MPX             0         0.00           0.00
+
+TOTAL                     3,682                               M A G N E T I C   T A P E   D E V I C E   A C T I V I T Y
+                                                                                                               PAGE    1
+            OS/VS2                   SYSTEM ID TK4-             DATE 12/20/23            INTERVAL 14.59.995
+            RELEASE 03.8             MF/1 VERSION 01            TIME 08.42.17            CYCLE 0.250 SECONDS
+
+
+                             DEVICE
+DEVICE        VOLUME         ACTIVITY       PERCENT        AVERAGE
+ADDRESS       SERIAL         COUNT          BUSY           QLENGTH
+
+
+
+480                                0         0.00           0.00
+
+TOTAL                              0                            C O M M U N I C A T I O N   E Q U I P M E N T   A C T I V I T Y
+                                                                                                               PAGE    1
+            OS/VS2                   SYSTEM ID TK4-             DATE 12/20/23            INTERVAL 14.59.995
+            RELEASE 03.8             MF/1 VERSION 01            TIME 08.42.17            CYCLE 0.250 SECONDS
+
+
+                             DEVICE
+DEVICE                       ACTIVITY       PERCENT        AVERAGE
+ADDRESS                      COUNT          BUSY           QLENGTH
+
+
+
+660                                0         0.00           0.00
+661                                0         0.00           0.00
+662                                0         0.00           0.00
+663                                0         0.00           0.00
+
+664                                0         0.00           0.00
+665                                0         0.00           0.00
+666                                0         0.00           0.00
+667                                0         0.00           0.00
+
+668                                0         0.00           0.00
+669                                0         0.00           0.00
+66A                                0         0.00           0.00
+66B                                0         0.00           0.00
+
+670                                0        100.0           0.00
+671                                0        100.0           0.00
+672                                0        100.0           0.00
+673                                0        100.0           0.00
+
+680                                0        100.0           0.00
+681                                0        100.0           0.00
+682                                0        100.0           0.00
+683                                0        100.0           0.00
+
+688                                0        100.0           0.00
+689                                0        100.0           0.00
+68A                                0        100.0           0.00
+68B                                0        100.0           0.00
+
+68C                                0        100.0           0.00
+68D                                0        100.0           0.00
+68E                                0        100.0           0.00
+68F                                0        100.0           0.00
+
+TOTAL                              0                               D I R E C T   A C C E S S   D E V I C E   A C T I V I T Y
+                                                                                                               PAGE    1
+            OS/VS2                   SYSTEM ID TK4-             DATE 12/20/23            INTERVAL 14.59.995
+            RELEASE 03.8             MF/1 VERSION 01            TIME 08.42.17            CYCLE 0.250 SECONDS
+
+
+                             DEVICE
+DEVICE        VOLUME         ACTIVITY       PERCENT        AVERAGE
+ADDRESS       SERIAL         COUNT          BUSY           QLENGTH
+
+
+
+131           SORT01               0         0.00           0.00
+132           SORT02               0         0.00           0.00
+133           SORT03               0         0.00           0.00
+134           SORT04               0         0.00           0.00
+
+135           SORT05               0         0.00           0.00
+136           SORT06               0         0.00           0.00
+140           WORK00              32         0.00           0.00
+148           MVSRES             321         0.00           0.00
+
+149           SMP001               0         0.00           0.00
+14A           SMP002               0         0.00           0.00
+14B           SMP003               0         0.00           0.00
+14C           SMP004               0         0.00           0.00
+
+152           HASP00             113         0.00           0.00
+160           PAGE00             222         0.00           0.00
+161           PAGE01             264         0.00           0.00
+170           WORK01              33         0.00           0.00
+
+180           WORK02              54         0.00           0.00
+190           WORK03             111         0.00           0.00
+191           MVSCAT             227         0.00           0.00
+240           PUB000           1,116         0.00           0.00
+
+241           PUB010             101         0.00           0.00
+248           MVSDLB             929         0.00           0.00
+270           PUB001               0         0.00           0.00
+271           PUB011               0         0.00           0.00
+
+280           PUB002               0         0.00           0.00
+281           PUB012               0         0.00           0.00
+290           PUB003               0         0.00           0.00
+291           PUB013               0         0.00           0.00
+
+TOTAL                          3,523                                    G R A P H I C S   D E V I C E   A C T I V I T Y
+                                                                                                               PAGE    1
+            OS/VS2                   SYSTEM ID TK4-             DATE 12/20/23            INTERVAL 14.59.995
+            RELEASE 03.8             MF/1 VERSION 01            TIME 08.42.17            CYCLE 0.250 SECONDS
+
+
+                             DEVICE
+DEVICE                       ACTIVITY       PERCENT        AVERAGE
+ADDRESS                      COUNT          BUSY           QLENGTH
+
+
+
+0C0                              126         0.00           0.00
+0C1                                0         0.00           0.00
+0C2                                0         0.00           0.00
+0C3                                0         0.00           0.00
+
+0C4                                0         0.00           0.00
+0C5                                0         0.00           0.00
+0C6                                0         0.00           0.00
+0C7                                0         0.00           0.00
+
+3C0                                0         0.00           0.00
+3C1                                0         0.00           0.00
+3C2                                0         0.00           0.00
+3C3                                0         0.00           0.00
+
+3C4                                0         0.00           0.00
+3C5                                0         0.00           0.00
+3C6                                0         0.00           0.00
+3C7                                0         0.00           0.00
+
+TOTAL                            126                                 U N I T   R E C O R D   D E V I C E   A C T I V I T Y
+                                                                                                               PAGE    1
+            OS/VS2                   SYSTEM ID TK4-             DATE 12/20/23            INTERVAL 14.59.995
+            RELEASE 03.8             MF/1 VERSION 01            TIME 08.42.17            CYCLE 0.250 SECONDS
+
+
+                             DEVICE
+DEVICE                       ACTIVITY       PERCENT        AVERAGE
+ADDRESS                      COUNT          BUSY           QLENGTH
+
+
+
+002                                0         0.00           0.00
+009                               10         0.00           0.00
+00C                                0         0.00           0.00
+00D                                0         0.00           0.00
+
+00E                                9         0.00           0.00
+00F                                0         0.00           0.00
+10C                                0         0.00           0.00
+10D                                0         0.00           0.00
+
+30E                               14         0.00           0.00
+
+TOTAL                             33                                                    MM        MM  FFFFFFFFFFFF       11
+                                                   MMM      MMM  FFFFFFFFFFFF      111
+                                                  MMMM    MMMM  FF               1111
+                                                 MM MM  MM MM  FF                 11
+                                                MM  MMMM  MM  FF                 11
+                                               MM   MM   MM  FFFFFFFF           11
+                                              MM        MM  FFFFFFFF           11
+                                             MM        MM  FF                 11
+                                            MM        MM  FF                 11
+                                           MM        MM  FF                 11
+                                          MM        MM  FF             1111111111
+                                         MM        MM  FF             1111111111
+
+
+
+                   SSSSSSSSSS   555555555555   3333333333    9999999999                                AAAAAAAAAA
+                  SSSSSSSSSSSS  555555555555  333333333333  999999999999                              AAAAAAAAAAAA
+                  SS        SS  55            33        33  99        99                              AA        AA
+                  SS            55                      33  99        99                              AA        AA
+                  SSS           55                      33  99        99                              AA        AA
+                   SSSSSSSSS    555555555            3333   999999999999                              AAAAAAAAAAAA
+                    SSSSSSSSS   5555555555           3333   999999999999                              AAAAAAAAAAAA
+                           SSS           55             33            99                              AA        AA
+                            SS            55            33            99                              AA        AA
+                  SS        SS            55  33        33  99        99                              AA        AA
+                  SSSSSSSSSSSS  555555555555  333333333333  999999999999                              AA        AA
+                   SSSSSSSSSS   55555555555    3333333333    9999999999                               AA        AA
+
+
+****A   END   STC  539  MF1                             ROOM        8.57.17 AM 20 DEC 23  PRINTER1  SYS TK4-  STC  539   END   A****
+****A   END   STC  539  MF1                             ROOM        8.57.17 AM 20 DEC 23  PRINTER1  SYS TK4-  STC  539   END   A****
+****A   END   STC  539  MF1                             ROOM        8.57.17 AM 20 DEC 23  PRINTER1  SYS TK4-  STC  539   END   A****
+****A   END   STC  539  MF1                             ROOM        8.57.17 AM 20 DEC 23  PRINTER1  SYS TK4-  STC  539   END   A****
+                                                    MM        MM  FFFFFFFFFFFF       11
+                                                   MMM      MMM  FFFFFFFFFFFF      111
+                                                  MMMM    MMMM  FF               1111
+                                                 MM MM  MM MM  FF                 11
+                                                MM  MMMM  MM  FF                 11
+                                               MM   MM   MM  FFFFFFFF           11
+                                              MM        MM  FFFFFFFF           11
+                                             MM        MM  FF                 11
+                                            MM        MM  FF                 11
+                                           MM        MM  FF                 11
+                                          MM        MM  FF             1111111111
+                                         MM        MM  FF             1111111111
+
+
+
+                   SSSSSSSSSS   555555555555   3333333333    9999999999                                AAAAAAAAAA
+                  SSSSSSSSSSSS  555555555555  333333333333  999999999999                              AAAAAAAAAAAA
+                  SS        SS  55            33        33  99        99                              AA        AA
+                  SS            55                      33  99        99                              AA        AA
+                  SSS           55                      33  99        99                              AA        AA
+                   SSSSSSSSS    555555555            3333   999999999999                              AAAAAAAAAAAA
+                    SSSSSSSSS   5555555555           3333   999999999999                              AAAAAAAAAAAA
+                           SSS           55             33            99                              AA        AA
+                            SS            55            33            99                              AA        AA
+                  SS        SS            55  33        33  99        99                              AA        AA
+                  SSSSSSSSSSSS  555555555555  333333333333  999999999999                              AA        AA
+                   SSSSSSSSSS   55555555555    3333333333    9999999999                               AA        AA
+
+
+****A  START  STC  539  MF1                             ROOM        9.12.17 AM 20 DEC 23  PRINTER1  SYS TK4-  STC  539  START  A****
+****A  START  STC  539  MF1                             ROOM        9.12.17 AM 20 DEC 23  PRINTER1  SYS TK4-  STC  539  START  A****
+****A  START  STC  539  MF1                             ROOM        9.12.17 AM 20 DEC 23  PRINTER1  SYS TK4-  STC  539  START  A****
+****A  START  STC  539  MF1                             ROOM        9.12.17 AM 20 DEC 23  PRINTER1  SYS TK4-  STC  539  START  A****
+                                                 C P U  A C T I V I T Y
+                                                                                                               PAGE    1
+            OS/VS2                   SYSTEM ID TK4-             DATE 12/20/23            INTERVAL 15.00.010
+            RELEASE 03.8             MF/1 VERSION 01            TIME 08.57.17
+
+
+
+
+CPU                WAIT TIME           WAIT TIME           CPU SERIAL
+NUMBER             HH.MM.SS.TTT        PERCENTAGE          NUMBER
+
+
+ 0                 00.14.57.572        99.72               000611
+
+
+ 1                 00.14.58.308        99.81               100611
+
+
+AVERAGE                                99.76                                              P A G I N G  A C T I V I T Y
+                                                                                                               PAGE    1
+            OS/VS2                   SYSTEM ID TK4-             DATE 12/20/23            INTERVAL 15.00.010
+            RELEASE 03.8             MF/1 VERSION 01            TIME 08.57.17
+
+
+                                               MAIN STORAGE PAGING RATES
+                                                      PER SECOND
+--------------------------------------------------------------------------------------------------------------------
+
+                                                      PAGE IN                                   PAGE OUT
+                    PAGE RECLAIMS      ------------------------------------       ----------------------------------
+                  ----------------     ----------------    ----------------       --------------    ----------------
+                           PERCENT                                  PERCENT                                  PERCENT
+                           OF                                       OF                                       OF
+                           TOTAL                  NON      TOTAL    TOTAL                  NON      TOTAL    TOTAL
+CATEGORY          RATE     SUM         SWAP       SWAP     RATE     SUM           SWAP     SWAP     RATE     SUM
+
+
+PAGEABLE SYSTEM
+AREAS
+     VIO            0.00        0                   0.00     0.00        0                   0.00     0.00        0
+
+     NON VIO        0.00        1                   0.00     0.00        0                   0.01     0.01        1
+                  ------   ------                 ------   ------   ------                 ------   ------   ------
+     SUM            0.00        1                   0.00     0.00        0                   0.01     0.01        1
+
+ADDRESS SPACES
+     VIO            0.00        0                   0.00     0.00        0                   0.00     0.00        0
+
+     NON VIO        0.16       99        0.84       0.01     0.85      100          0.94     0.00     0.94       99
+                  ------   ------      ------     ------   ------   ------        ------   ------   ------   ------
+     SUM            0.16       99        0.84       0.01     0.85      100          0.94     0.00     0.94       99
+
+TOTAL SYSTEM
+     VIO            0.00        0                   0.00     0.00        0                   0.00     0.00        0
+
+     NON VIO        0.16      100        0.84       0.01     0.85      100          0.94     0.01     0.95      100
+                  ------   ------      ------     ------   ------   ------        ------   ------   ------   ------
+     SUM            0.16      100        0.84       0.01     0.85      100          0.94     0.01     0.95      100
+
+
+      AUXILIARY STORAGE USER POOL                     PAGEABLE MAIN STORAGE COUNTS               SWAP COUNTS
+-------------------------------------------         --------------------------------          --------------------
+
+                       PAGE                                          PAGE
+                       SLOTS        PERCENT                          FRAMES  PERCENT
+
+
+
+AVAILABLE SLOTS           19,135        96          UNUSED FRAMES    3191        81           SWAPS            151
+
+VIO SLOTS                      0         0          DATA PAGES        756        19           AVERAGE
+                                                                     ----    ------           PAGES PER     6
+NON-VIO SLOTS                785         4          TOTAL FRAMES     3947       100           SWAP OUT
+
+UNAVAILABLE SLOTS              0         0                                                    AVERAGE
+                       ---------    ------                                                    PAGES PER     5
+TOTAL SLOTS               19,920       100                                                    SWAP IN                                           W O R K L O A D   A C T I V I T Y
+                                                                                                               PAGE    1
+            OS/VS2                   SYSTEM ID TK4-             DATE 12/20/23            INTERVAL 15.00.010
+            RELEASE 03.8             MF/1 VERSION 01            TIME 08.57.17            IEAIPS00
+
+
+PERFORM        PERFORM        SERVICE           AVERAGE                    AVERAGE        ENDED          AVERAGE TIME OF
+GROUP          GROUP          IN                TRANS.       WORKLOAD      TRANS-         TRANS-         ENDED TRANS.
+NUMBER         PERIOD         INTERVAL          SRV RATE     LEVEL         ACTIONS        ACTIONS        HHH.MM.SS.TTT
+
+
+001            1                  1,616               0        100.00          5.02             0        000.00.00.000
+               2                  ZEROS
+
+001            ALL                1,616               0        100.00          5.02             0        000.00.00.000
+
+
+002            1                     71           3,649          0.92          0.00             2        000.00.00.009
+               2 - 3              ZEROS
+
+002            ALL                   71           3,649          0.92          0.00             2        000.00.00.009
+
+
+003 - 004      ZEROS
+
+SYSTEM TOTAL                      1,687               0         95.83          5.02             2        000.00.00.009                                            C H A N N E L   A C T I V I T Y
+                                                                                                               PAGE    1
+            OS/VS2                   SYSTEM ID TK4-             DATE 12/20/23            INTERVAL 15.00.010
+            RELEASE 03.8             MF/1 VERSION 01            TIME 08.57.17            CYCLE 0.250 SECONDS
+
+
+
+     CHANNEL            CHANNEL        PERCENT        PERCENT
+     NUMBER             ACTIVITY       CHANNEL        CHAN BUSY
+CPU  AND TYPE           COUNT          BUSY           & CPU WAIT
+
+
+ 0   0  BYTE MPX             16
+     1  BLOCK MPX           142         0.00           0.00
+     2  BLOCK MPX           326         0.00           0.00
+     3  BLOCK MPX             4         0.00           0.00
+
+     4  BLOCK MPX             0         0.00           0.00
+     6  BLOCK MPX             0         0.00           0.00
+
+TOTAL                       488
+
+
+ 1   0  BYTE MPX             16
+     1  BLOCK MPX           142         0.00           0.00
+     2  BLOCK MPX           326         0.00           0.00
+     3  BLOCK MPX             4         0.00           0.00
+
+     4  BLOCK MPX             0         0.00           0.00
+     6  BLOCK MPX             0         0.00           0.00
+
+TOTAL                       488                               M A G N E T I C   T A P E   D E V I C E   A C T I V I T Y
+                                                                                                               PAGE    1
+            OS/VS2                   SYSTEM ID TK4-             DATE 12/20/23            INTERVAL 15.00.010
+            RELEASE 03.8             MF/1 VERSION 01            TIME 08.57.17            CYCLE 0.250 SECONDS
+
+
+                             DEVICE
+DEVICE        VOLUME         ACTIVITY       PERCENT        AVERAGE
+ADDRESS       SERIAL         COUNT          BUSY           QLENGTH
+
+
+
+480                                0         0.00           0.00
+
+TOTAL                              0                            C O M M U N I C A T I O N   E Q U I P M E N T   A C T I V I T Y
+                                                                                                               PAGE    1
+            OS/VS2                   SYSTEM ID TK4-             DATE 12/20/23            INTERVAL 15.00.010
+            RELEASE 03.8             MF/1 VERSION 01            TIME 08.57.17            CYCLE 0.250 SECONDS
+
+
+                             DEVICE
+DEVICE                       ACTIVITY       PERCENT        AVERAGE
+ADDRESS                      COUNT          BUSY           QLENGTH
+
+
+
+660                                0         0.00           0.00
+661                                0         0.00           0.00
+662                                0         0.00           0.00
+663                                0         0.00           0.00
+
+664                                0         0.00           0.00
+665                                0         0.00           0.00
+666                                0         0.00           0.00
+667                                0         0.00           0.00
+
+668                                0         0.00           0.00
+669                                0         0.00           0.00
+66A                                0         0.00           0.00
+66B                                0         0.00           0.00
+
+670                                0        100.0           0.00
+671                                0        100.0           0.00
+672                                0        100.0           0.00
+673                                0        100.0           0.00
+
+680                                0        100.0           0.00
+681                                0        100.0           0.00
+682                                0        100.0           0.00
+683                                0        100.0           0.00
+
+688                                0        100.0           0.00
+689                                0        100.0           0.00
+68A                                0        100.0           0.00
+68B                                0        100.0           0.00
+
+68C                                0        100.0           0.00
+68D                                0        100.0           0.00
+68E                                0        100.0           0.00
+68F                                0        100.0           0.00
+
+TOTAL                              0                               D I R E C T   A C C E S S   D E V I C E   A C T I V I T Y
+                                                                                                               PAGE    1
+            OS/VS2                   SYSTEM ID TK4-             DATE 12/20/23            INTERVAL 15.00.010
+            RELEASE 03.8             MF/1 VERSION 01            TIME 08.57.17            CYCLE 0.250 SECONDS
+
+
+                             DEVICE
+DEVICE        VOLUME         ACTIVITY       PERCENT        AVERAGE
+ADDRESS       SERIAL         COUNT          BUSY           QLENGTH
+
+
+
+131           SORT01               0         0.00           0.00
+132           SORT02               0         0.00           0.00
+133           SORT03               0         0.00           0.00
+134           SORT04               0         0.00           0.00
+
+135           SORT05               0         0.00           0.00
+136           SORT06               0         0.00           0.00
+140           WORK00               0         0.00           0.00
+148           MVSRES              65         0.00           0.00
+
+149           SMP001               0         0.00           0.00
+14A           SMP002               0         0.00           0.00
+14B           SMP003               0         0.00           0.00
+14C           SMP004               0         0.00           0.00
+
+152           HASP00              18         0.00           0.00
+160           PAGE00              26         0.00           0.00
+161           PAGE01              29         0.00           0.00
+170           WORK01               0         0.00           0.00
+
+180           WORK02               0         0.00           0.00
+190           WORK03               0         0.00           0.00
+191           MVSCAT               4         0.00           0.00
+240           PUB000              15         0.00           0.00
+
+241           PUB010               0         0.00           0.00
+248           MVSDLB             311         0.00           0.00
+270           PUB001               0         0.00           0.00
+271           PUB011               0         0.00           0.00
+
+280           PUB002               0         0.00           0.00
+281           PUB012               0         0.00           0.00
+290           PUB003               0         0.00           0.00
+291           PUB013               0         0.00           0.00
+
+TOTAL                            468                                    G R A P H I C S   D E V I C E   A C T I V I T Y
+                                                                                                               PAGE    1
+            OS/VS2                   SYSTEM ID TK4-             DATE 12/20/23            INTERVAL 15.00.010
+            RELEASE 03.8             MF/1 VERSION 01            TIME 08.57.17            CYCLE 0.250 SECONDS
+
+
+                             DEVICE
+DEVICE                       ACTIVITY       PERCENT        AVERAGE
+ADDRESS                      COUNT          BUSY           QLENGTH
+
+
+
+0C0                                4         0.00           0.00
+0C1                                0         0.00           0.00
+0C2                                0         0.00           0.00
+0C3                                0         0.00           0.00
+
+0C4                                0         0.00           0.00
+0C5                                0         0.00           0.00
+0C6                                0         0.00           0.00
+0C7                                0         0.00           0.00
+
+3C0                                0         0.00           0.00
+3C1                                0         0.00           0.00
+3C2                                0         0.00           0.00
+3C3                                0         0.00           0.00
+
+3C4                                0         0.00           0.00
+3C5                                0         0.00           0.00
+3C6                                0         0.00           0.00
+3C7                                0         0.00           0.00
+
+TOTAL                              4                                 U N I T   R E C O R D   D E V I C E   A C T I V I T Y
+                                                                                                               PAGE    1
+            OS/VS2                   SYSTEM ID TK4-             DATE 12/20/23            INTERVAL 15.00.010
+            RELEASE 03.8             MF/1 VERSION 01            TIME 08.57.17            CYCLE 0.250 SECONDS
+
+
+                             DEVICE
+DEVICE                       ACTIVITY       PERCENT        AVERAGE
+ADDRESS                      COUNT          BUSY           QLENGTH
+
+
+
+002                                0         0.00           0.00
+009                                4         0.00           0.00
+00C                                0         0.00           0.00
+00D                                0         0.00           0.00
+
+00E                                8         0.00           0.00
+00F                                0         0.00           0.00
+10C                                0         0.00           0.00
+10D                                0         0.00           0.00
+
+30E                                4         0.00           0.00
+
+TOTAL                             16                                                    MM        MM  FFFFFFFFFFFF       11
+                                                   MMM      MMM  FFFFFFFFFFFF      111
+                                                  MMMM    MMMM  FF               1111
+                                                 MM MM  MM MM  FF                 11
+                                                MM  MMMM  MM  FF                 11
+                                               MM   MM   MM  FFFFFFFF           11
+                                              MM        MM  FFFFFFFF           11
+                                             MM        MM  FF                 11
+                                            MM        MM  FF                 11
+                                           MM        MM  FF                 11
+                                          MM        MM  FF             1111111111
+                                         MM        MM  FF             1111111111
+
+
+
+                   SSSSSSSSSS   555555555555   3333333333    9999999999                                AAAAAAAAAA
+                  SSSSSSSSSSSS  555555555555  333333333333  999999999999                              AAAAAAAAAAAA
+                  SS        SS  55            33        33  99        99                              AA        AA
+                  SS            55                      33  99        99                              AA        AA
+                  SSS           55                      33  99        99                              AA        AA
+                   SSSSSSSSS    555555555            3333   999999999999                              AAAAAAAAAAAA
+                    SSSSSSSSS   5555555555           3333   999999999999                              AAAAAAAAAAAA
+                           SSS           55             33            99                              AA        AA
+                            SS            55            33            99                              AA        AA
+                  SS        SS            55  33        33  99        99                              AA        AA
+                  SSSSSSSSSSSS  555555555555  333333333333  999999999999                              AA        AA
+                   SSSSSSSSSS   55555555555    3333333333    9999999999                               AA        AA
+
+
+****A   END   STC  539  MF1                             ROOM        9.12.17 AM 20 DEC 23  PRINTER1  SYS TK4-  STC  539   END   A****
+****A   END   STC  539  MF1                             ROOM        9.12.17 AM 20 DEC 23  PRINTER1  SYS TK4-  STC  539   END   A****
+****A   END   STC  539  MF1                             ROOM        9.12.17 AM 20 DEC 23  PRINTER1  SYS TK4-  STC  539   END   A****
+****A   END   STC  539  MF1                             ROOM        9.12.17 AM 20 DEC 23  PRINTER1  SYS TK4-  STC  539   END   A****
+
