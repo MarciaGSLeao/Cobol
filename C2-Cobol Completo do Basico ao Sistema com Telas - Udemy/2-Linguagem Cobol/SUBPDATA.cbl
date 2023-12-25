@@ -36,12 +36,12 @@
 
        0200-PROCESSAR              SECTION.
            PERFORM 0250-MONTAMES.
-           STRING 'BRASILIA, '            DELIMITED BY SIZE
-                   WRK-DIA                DELIMITED BY SIZE
-                   '/'                 DELIMITED BY SIZE
-                   WRK-MES-EXT(WRK-MES)   DELIMITED BY SIZE
-                   '/'                  DELIMITED BY SIZE
-                   WRK-ANO                DELIMITED BY SIZE
+           STRING 'BRASILIA, '             DELIMITED BY SIZE
+                   WRK-DIA                 DELIMITED BY SIZE
+                   '/'                     DELIMITED BY SIZE
+                   WRK-MES-EXT(WRK-MES)    DELIMITED BY SIZE
+                   '/'                     DELIMITED BY SIZE
+                   WRK-ANO                 DELIMITED BY SIZE
                    INTO LNK-DATA.
 
        0250-MONTAMES               SECTION.
