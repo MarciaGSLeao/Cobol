@@ -1,0 +1,30 @@
+      * Autor: Marcia Gameleira
+      * Data: 03/06/2025
+      * Objetivo: Usando o comando DISPLAY.
+
+       IDENTIFICATION DIVISION.
+       PROGRAM-ID. PGM00005.
+
+       ENVIRONMENT DIVISION.
+       CONFIGURATION SECTION.
+
+       INPUT-OUTPUT SECTION.
+
+
+       DATA DIVISION.
+       FILE SECTION.
+       WORKING-STORAGE SECTION.
+       77  WS-VARIAVEL          PIC X(50).
+
+
+       PROCEDURE DIVISION.
+       0001-ROTINA-PRINCIPAL SECTION.
+
+           MOVE 'ISSO EH O CONTEUDO DE UMA VARIAVEL' TO WS-VARIAVEL
+           DISPLAY 35
+           DISPLAY 'MARCIA'
+           DISPLAY WS-VARIAVEL
+
+           STOP RUN.
+
+       END PROGRAM PGM00005.
