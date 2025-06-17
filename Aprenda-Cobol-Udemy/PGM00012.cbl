@@ -1,6 +1,6 @@
       * Autor: Marcia Gameleira
       * Data: 15/06/2025
-      * Objetivo: LEITURA DE ARQUIVO
+      * Objetivo: LEITURA DE STRINGS
 
       *                                        IDENTIFICATION DIVISION
        IDENTIFICATION DIVISION.
